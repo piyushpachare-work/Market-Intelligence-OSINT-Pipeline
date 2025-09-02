@@ -1,0 +1,101 @@
+Date,Source Type,Source Name,Headline/Content Snippet,Regulation/Event Title,Stakeholder Type,Sentiment,Sentiment Score,Link/Reference
+23-08-2006,Official,FSSAI,"""FSSAI issues guidelines on food recall procedures""",Recall Guidelines and Product Withdrawal Procedures,Industry,Neutral,0,Link
+01-01-2017,Official,FSSAI,"""FSSAI notifies Food Safety and Standards (Organic Foods) Regulations,2017""",Standardization of Organic Food Certification,Industry,Neutral,0,Link
+01-01-2017,Official,FSSAI,"""FSSAI introduces Participatory Guarantee System (PGS) for organic certification""",Standardization of Organic Food Certification,Industry,Neutral,0,Link
+09-08-2018,Official,FSSAI,"""Food Safety and Standards (Fortification of Foods) Regulations, 2018""","Food Fortification Regulations, 2018",Regulatory Body,Neutral,0,Link
+14-01-2020,Official,FSSAI,"""Standardized Street Food Cart under 'Clean Street Food Hub' initiative""",Clean Street Food Hub Initiative,Regulatory Body,Neutral,0,Link
+09-08-2020,News,Times of India,"""No sale of junk food within 50 metres of school campus: FSSAI""",Ban on Sale of Junk Food in School Vicinity,Public,Positive,1,Link
+11-08-2020,News,India Today,"""FSSAI bans sale and advertising of junk food in and around 50 metres of school premises""",Ban on Sale of Junk Food in School Vicinity,Public,Positive,1,Link
+08-09-2020,News,Business Standard,"""FSSAI bans sales, junk foods ads in school canteens, within 50 m of campus""",Ban on Sale of Junk Food in School Vicinity,Public,Positive,1,Link
+03-11-2020,News,The Hindu Business Line,"""FSSAI launches new guidelines for food fortification""","Food Fortification Regulations, 2018",Industry,Positive,1,Link
+05-11-2020,News,Times of India,"""FSSAI proposes ban on sale, ads of junk foods in school canteens, within 50m of campus""",Online Food Aggregator Licensing and Hygiene Audits,Industry,Neutral,0,Link
+19-01-2022,News,Business Standard,"""FSSAI strengthens food fortification norms to address nutritional deficiencies""","Food Fortification Regulations, 2018",Regulatory Body,Positive,1,Link
+17-09-2022,Official,FSSAI,"""FSSAI sets new safety standards for non-alcoholic beverages including soft drinks""",Food Safety and Standards for Non-Alcoholic Beverages,Regulatory Body,Positive,1,Link
+20-12-2022,Official,FSSAI,"""Food Safety and Standards Regulation, 2011""","Food Safety and Standards Regulations, 2011",Regulatory Body,Neutral,0,Link
+20-12-2022,Official,FSSAI,"""Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011""","Food Additives Regulations, 2022",Regulatory Body,Neutral,0,Link
+19-02-2023,Official,FSSAI,"""FSSAI launches new sustainability standards for food packaging materials""",Sustainability Standards for Food Packaging,Regulatory Body,Positive,1,Link
+10-03-2023,Official,FSSAI,"""FSSAI updates regulations for the importation of food products""",Regulation on Imported Food Products,Regulatory Body,Positive,1,Link
+11-04-2023,Official,FSSAI,"""FSSAI sets guidelines for certifying traditional foods with geographic origin""",Certification for Traditional Foods,Regulatory Body,Positive,1,Link
+02-05-2023,Official,FSSAI,"""FSSAI issues new gluten-free food guidelines to ensure food safety""",Regulation of Gluten-Free Foods,Regulatory Body,Positive,1,Link
+10-05-2023,News,The Economic Times,"""FSSAI to boost hygiene in street food with new guidelines""",Clean Street Food Hub Initiative,Regulatory Body,Positive,1,Link
+23-07-2023,News,Food Safety News,"""FSSAI's Clean Street Food Hub to focus on local food vendors""",Clean Street Food Hub Initiative,Industry,Positive,1,Link
+25-07-2023,Official,FSSAI,"""FSSAI defines new norms for functional foods, aiming for consumer safety""",Regulation of Functional Foods and Beverages,Regulatory Body,Positive,1,Link
+14-08-2023,News,Hindustan Times,"""FSSAI introduces labeling guidelines for gluten-free packaged foods""",Regulation of Gluten-Free Foods,Industry,Neutral,0,Link
+01-09-2023,News,The Indian Express,"""FSSAI introduces certification for traditional foods to preserve authenticity""",Certification for Traditional Foods,Regulatory Body,Neutral,0,Link
+05-09-2023,News,Business Insider,"""FSSAI approves new food additives to enhance shelf-life and taste""",Regulations on Food Additives and Preservatives,Industry,Positive,1,Link
+23-10-2023,News,Business Insider,"""FSSAI revises food packaging rules to promote sustainable practices""",Sustainability Standards for Food Packaging,Regulatory Body,Positive,1,Link
+03-11-2023,News,India Today,"""FSSAI issues new directive for the fortification of functional foods""",Regulation of Functional Foods and Beverages,Regulatory Body,Positive,1,Link
+14-11-2023,News,Food Compliance International,"""FSSAI Authorizes New Tests For Minerals in Fortified Rice Kernel""",Regulation of Nano-materials in Food Products,Industry,Neutral,0,Link
+15-11-2023,News,Business Standard,"""FSSAI announces stricter guidelines for the importation of food products""",Regulation on Imported Food Products,Industry,Neutral,0,Link
+20-11-2023,News,The Hindu BusinessLine,"""FSSAI operationalises amended micronutrients limits in premix for fortified rice kernels""",Food Product Fortification Guidelines,Industry,Neutral,0,Link
+09-12-2023,News,Business Standard,"""FSSAI issues fresh guidelines for labeling and safety in non-alcoholic drinks""",Food Safety and Standards for Non-Alcoholic Beverages,Industry,Neutral,0,Link
+11-01-2024,News,Times of India,"""FSSAI to ensure better monitoring and enforcement of gluten-free food standards""",Regulation of Gluten-Free Foods,Regulatory Body,Positive,1,Link
+28-01-2024,News,NDTV,"""FSSAI cracks down on sub-standard imported food products""",Regulation on Imported Food Products,Regulatory Body,Negative,-1,Link
+15-02-2024,News,The Economic Times,"""FSSAI introduces guidelines to monitor and label functional beverages""",Regulation of Functional Foods and Beverages,Industry,Neutral,0,Link
+22-02-2024,News,Food Safety News,"""FSSAI unveils certification process for traditional Indian foods""",Certification for Traditional Foods,Industry,Positive,1,Link
+05-03-2024,News,NDTV,"""FSSAI cracks down on unsafe non-alcoholic beverages and regulates sugar content""",Food Safety and Standards for Non-Alcoholic Beverages,Regulatory Body,Negative,-1,Link
+12-03-2024,News,The Hindu,"""FSSAI mandates eco-friendly packaging for food products by 2025""",Sustainability Standards for Food Packaging,Industry,Positive,1,Link
+15-03-2024,News,Climate Fact Checks,"""FSSAI Steps Up: Ensuring Food Safety Amid Microplastic Concerns""",Microplastic Contamination in Food,Public,Neutral,0,Link
+15-05-2024,News,Hindustan Times,"""FSSAI introduces new amendments on additives and preservatives in food products""",Regulations on Food Additives and Preservatives,Regulatory Body,Positive,1,Link
+03-06-2024,Official,FSSAI,"""FSSAI issues advisory prohibiting direct and unauthorized use of liquid nitrogen in food by food serving establishments, restaurants, and bars.""",Unauthorized Use of Liquid Nitrogen in Food,Industry,Negative,-1,Link
+05-06-2024,News,NDTV Food,"""FSSAI advises against the unauthorized use of liquid nitrogen in food by food serving establishments, restaurants, bars, etc.""",Unauthorized Use of Liquid Nitrogen in Food,Public,Negative,-1,Link
+11-06-2024,News,Food Tech NEWS,"""The Use of Approved Test Methods for Testing Fortificants in Fortified Rice Products is Mandated by FSSAI""",Food Product Fortification Guidelines,Industry,Neutral,0,Link
+14-06-2024,Official,FSSAI,"""FSSAI updates standards for food additives and preservatives""",Regulations on Food Additives and Preservatives,Regulatory Body,Neutral,0,Link
+20-06-2024,News,Financial Express,"""FSSAI Imposes Ban on Trans Fats in Edible Oils""",Trans Fat Ban and Limit Reduction in Edible Oils,Industry,Positive,1,Link
+21-06-2024,News,The Hindu,"""FSSAI's New Regulations Ban Trans Fats in Edible Oils""",Trans Fat Ban and Limit Reduction in Edible Oils,Industry,Positive,1,Link
+22-06-2024,News,Economic Times,"""Understanding FSSAI's Ban on Trans Fats in Edible Oils""",Trans Fat Ban and Limit Reduction in Edible Oils,Industry,Positive,1,[Link](https://economictimes.indiatimes.com/industry/cons-products/food/understanding-fssais-ban-on-trans-fats-in-edible-o
+05-07-2024,News,The Hindu,"""FSSAI Introduces Mandatory QR Codes on Food Products for Enhanced Traceability""",Mandatory QR Codes on Food Products for Traceability,Industry,Positive,1,Link
+06-07-2024,News,India Briefing,"""FSSAI Sets July 1 as Annual Compliance Date for Food Safety Labeling Regulation""",Front-of-Pack Nutrition Labeling,Industry,Neutral,0,Link
+06-07-2024,News,FSSAI,"""FSSAI Approves Nutritional Labelling for Packaged Food in Bold Letters, Bigger Fonts""",Front-of-Pack Nutrition Labeling,Industry,Positive,1,Link
+06-07-2024,News,Economic Times,"""FSSAI's New Regulations Require QR Codes on Food Products for Traceability""",Mandatory QR Codes on Food Products for Traceability,Industry,Positive,1,Link
+07-07-2024,News,Times of India,"""FSSAI's Move to Implement QR Codes on Food Products to Enhance Traceability""",Mandatory QR Codes on Food Products for Traceability,Industry,Positive,1,Link
+24-07-2024,News,Esko Blog,"""How to Ensure Your Food Labels Meet FSSAI Standards""",Front-of-Pack Nutrition Labeling,Industry,Neutral,0,Link
+24-07-2024,News,LinkedIn,"""Labelling Claims Nuffoods Spectrum July 2024""",Front-of-Pack Nutrition Labeling,Public,Positive,1,Link
+10-08-2024,News,Financial Express,"""FSSAI Mandates Labelling of Genetically Modified Foods""",Labelling Requirements for GM Foods,Industry,Positive,1,Link
+11-08-2024,News,The Hindu,"""FSSAI's New Guidelines on GM Foods Labelling Explained""",Labelling Requirements for GM Foods,Industry,Positive,1,Link
+12-08-2024,News,Economic Times,"""Understanding FSSAI's Labelling Requirements for GM Foods""",Labelling Requirements for GM Foods,Industry,Positive,1,Link
+18-08-2024,News,ET HealthWorld,"""FSSAI launches project to address microplastic contamination in Indian food products""",Microplastic Contamination in Food,Regulatory Body,Neutral,0,Link
+19-08-2024,News,ET Government,"""FSSAI launches project to address microplastic contamination in Indian food items""",Microplastic Contamination in Food,Regulatory Body,Neutral,0,Link
+30-08-2024,Official,FSSAI,"""FSSAI invites public comments on draft amendment regulations proposing the use of Natamycin as an additive in fermented milk and dairy-based desserts.""",Use of Natamycin as Additive in Dairy Products,Industry,Neutral,0,Link
+09-09-2024,News,The Hindu,"""Food Safety department trains 750 street food vendors on hygiene practices""",Food Safety and Hygiene in Street Food Vending,Public,Positive,1,Link
+11-09-2024,Official,FSSAI,"""FSSAI extends the provision for instant (Tatkal) issuance of food licenses and registrations nationwide, except in Chandigarh, Himachal Pradesh, and Meghalaya.""",Expansion of Instant Licensing Scheme,Industry,Positive,1,Link
+11-09-2024,Official,FSSAI,"""FSSAI invites public comments on draft amendment regulations proposing the use of Natamycin as an additive in fermented milk and dairy-based desserts.""",Use of Natamycin as Additive in Dairy Products,Industry,Neutral,0,Link
+11-09-2024,News,FoodTech Network,"""FSSAI issues a draft to use natamycin for preservation in fermented milks (plain) & dairy-based desserts.""",Use of Natamycin as Additive in Dairy Products,Industry,Neutral,0,Link
+11-09-2024,News,The Times of India,"""FSSAI sets this 45-day expiry condition for Swiggy, Zomato, BigBasket and other e-commerce companies.""",Shelf-Life Guidelines for E-commerce Entities,Industry,Positive,1,Link
+11-09-2024,Official,Ministry of Consumer Affairs,"""Proposal to include both weight and dimensions on packaging of food wrapping materials like paper and aluminum foils to enhance consumer transparency.""",Dual Labelling for Food Wrapping Materials,Public,Positive,1,Link
+11-09-2024,News,Business Standard,"""FSSAI sets expiry timelines for food items sold on ecom and qcom.""",Shelf-Life Guidelines for E-commerce Entities,Industry,Positive,1,Link
+15-09-2024,News,The Hindu,"""FSSAI Issues Guidelines for Health Supplements and Nutraceuticals""",Regulation of Health Supplements and Nutraceuticals,Industry,Positive,1,Link
+16-09-2024,News,Economic Times,"""FSSAI's New Regulations Aim to Standardize Health Supplements and Nutraceuticals""",Regulation of Health Supplements and Nutraceuticals,Industry,Positive,1,Link
+17-09-2024,News,Times of India,"""FSSAI's Move to Regulate Health Supplements and Nutraceuticals Welcomed by Industry""",Regulation of Health Supplements and Nutraceuticals,Industry,Positive,1,Link
+18-09-2024,Official,Food Compliance International,"""FSSAI announces modification of requirements for food fortification""","Food Fortification Regulations, 2018",Regulatory Body,Neutral,0,Link
+30-09-2024,News,FoodNavigator Asia,"""India assessing exposure among consumers, plans new regulations""",Microplastic Contamination in Food,Regulatory Body,Neutral,0,Link
+17-10-2024,Official,TaxGuru,"""FSSAI issues amendment to Prohibition and Restrictions on Sales Regulations""","Food Safety and Standards Regulations, 2011",Regulatory Body,Neutral,0,Link
+20-10-2024,News,Financial Express,"""FSSAI Imposes Restrictions on Use of Recycled Plastic in Food Packaging""",Restrictions on Use of Recycled Plastic for Food Packaging,Industry,Negative,-1,Link
+21-10-2024,News,The Hindu,"""FSSAI's New Guidelines Limit Recycled Plastic Usage in Food Packaging""",Restrictions on Use of Recycled Plastic for Food Packaging,Industry,Negative,-1,Link
+22-10-2024,News,Economic Times,"""FSSAI Bans Use of Recycled Plastic in Food Packaging""",Restrictions on Use of Recycled Plastic for Food Packaging,Industry,Negative,-1,Link
+22-10-2024,News,Food Compliance International,"""FSSAI announces amendments to food additives standards""",Regulations on Food Additives and Preservatives,Industry,Neutral,0,Link
+29-10-2024,Official,CliniExperts,"""FSSAI notifies Food Safety and Standards (Amendment) Rules, 2024""","Food Additives Regulations, 2022",Regulatory Body,Neutral,0,Link
+01-11-2024,News,Food Compliance International,"""FSSAI Removes Several Restrictions on Sale of Multi-Source Edible Oils""",Ban on Multi-Source Edible Oils,Industry,Positive,1,Link
+01-11-2024,News,Legality Simplified,"""FSSAI Removes Several Restrictions on Sale of Food Products""",Ban on Multi-Source Edible Oils,Industry,Positive,1,Link
+01-11-2024,News,ChemLinked,"""India Removes Some Restrictions on Sale of Food Products Involving Foods for Infant Nutrition""",Ban on Multi-Source Edible Oils,Industry,Neutral,0,Link
+01-11-2024,News,FSSAI,"""FSSAI Amends Food Safety and Standards Regulations""",Ban on Multi-Source Edible Oils,Industry,Neutral,0,Link
+01-11-2024,News,Food Navigator Asia,"""India Eases Restrictions on Multi-Source Edible Oils""",Ban on Multi-Source Edible Oils,Industry,Positive,1,Link
+12-11-2024,News,The Hindu BusinessLine,"""FSSAI cautions quick commerce, e-commerce platforms on violations of expiry date regulations, misleading claims.""",Shelf-Life Guidelines for E-commerce Entities,Industry,Neutral,0,Link
+13-11-2024,News,The Hindu,"""FSSAI directs online platforms to deliver food items with minimum 45-day shelf life.""",Shelf-Life Guidelines for E-commerce Entities,Industry,Neutral,0,Link
+15-11-2024,News,The Hindu,"""FSSAI Introduces Hygiene Rating Scheme for Food Businesses""",Hygiene Rating Scheme for Food Businesses,Industry,Positive,1,Link
+16-11-2024,News,Economic Times,"""FSSAI Launches Hygiene Rating Scheme to Ensure Food Safety""",Hygiene Rating Scheme for Food Businesses,Public,Positive,1,Link
+17-11-2024,News,Times of India,"""FSSAI's Hygiene Rating Scheme Aims to Improve Food Safety Standards""",Hygiene Rating Scheme for Food Businesses,Public,Positive,1,Link
+01-12-2024,News,Just Drinks,"""FSSAI Classifies Packaged Drinking Water as 'High-Risk' Food""",Mandatory BIS Certification for Packaged Drinking Water,Industry,Negative,-1,Link
+01-12-2024,News,Economic Times,"""FSSAI Classifies Packaged Water as High-Risk Food, Mandates BIS Certification""",Mandatory BIS Certification for Packaged Drinking Water,Industry,Negative,-1,Link
+01-12-2024,News,Freyr Solutions,"""FSSAI Reclassifies Packaged Drinking Water and Mineral Water as 'High-Risk' Food Category""",Mandatory BIS Certification for Packaged Drinking Water,Industry,Neutral,0,Link
+01-12-2024,News,FSSAI,"""FSSAI Issues Advisory on High-Risk Food Categories""",Mandatory BIS Certification for Packaged Drinking Water,Industry,Neutral,0,Link
+01-12-2024,News,Food Navigator Asia,"""India Mandates BIS Certification for Packaged Drinking Water""",Mandatory BIS Certification for Packaged Drinking Water,Industry,Negative,-1,Link
+24-02-2025,News,Legality Simplified,"""FSSAI Mandates Mandatory Update of Nominee Details & Updates To Modifications""",Mandatory Nominee Update in Form IX,Industry,Positive,1,Link
+04-03-2025,News,Legality Simplified,"""FSSAI Proposes New Export Certification Form To Vegan Foods""",Introduction of Vegan Food Regulations,Industry,Neutral,0,Link
+07-03-2025,News,Lexplosion,"""FSSAI mandates Form IX nominee updates and introduces auto-approval for Non-Form C modifications in FoSCoS""",Mandatory Nominee Update in Form IX,Industry,Positive,1,Link
+10-03-2025,News,MyFSSAI,"""Draft Regulations Vegan Foods Amendment, 2025""",Introduction of Vegan Food Regulations,Industry,Neutral,0,Link
+14-03-2025,News,Food Compliance International,"""FSSAI announces draft amendment on vegan food requirements""",Introduction of Vegan Food Regulations,Industry,Neutral,0,Link
+16-03-2025,News,TaxGuru,"""FSSAI mandates Form IX updates & introduces auto-approval""",Mandatory Nominee Update in Form IX,Industry,Positive,1,Link
+16-04-2025,News,The CSR Journal,"""Supreme Court Orders New Front-of-Pack Food Labels to Tackle Rising Health Crisis by July 2025""",Front-of-Pack Nutrition Labeling,Public,Positive,1,Link
+        2024-09-00,Official,Ministry of Consumer Affairs,"""Proposal to include both weight and dimensions on packaging of food wrapping materials like paper and aluminum foils to enhance consumer transparency.""",Dual Labelling for Food Wrapping Materials,Public,Positive,1,Link
+         2024-09-00,Official,FSSAI,"""FSSAI directs e-commerce entities to ensure a minimum shelf life of 30% or 45 days before expiry at the time of delivery and to launch training programs for delivery staff.""",Shelf-Life Guidelines for E-commerce Entities,Industry,Positive,1,Link

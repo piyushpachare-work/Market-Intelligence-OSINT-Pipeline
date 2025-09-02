@@ -1,0 +1,41 @@
+Sr. No,Platform,Date,Product,Customer Comment,Dissonance Reason,Sentiment,Expectation Mismatch
+1,Amazon,2024-03-04,Haldiram Rasgulla,Too sweet and tastes artificial.,Taste mismatch,Negative,Yes
+2,Flipkart,2024-03-07,Haldiram Bhel Puri,Pack quantity much less than shown.,Packaging deception,Negative,Yes
+3,Twitter,2024-03-09,Haldiram Soan Papdi,Came broken and flaky.,Poor packaging,Negative,Yes
+4,Instagram,2024-03-11,Haldiram Bhujia,"Expected more spice like before, now bland.",Flavor inconsistency,Negative,Yes
+5,YouTube,2024-03-13,Haldiram Sweets Assortment,"Looked big in ad, actual box was small.",Size/quantity mismatch,Negative,Yes
+6,Amazon,2024-03-15,Haldiram Aloo Bhujia,Tastes different from store-bought pack.,Taste variation,Negative,Yes
+7,Reddit,2024-03-18,Haldiram Namkeen Combo,Price doesn’t justify taste.,Value mismatch,Negative,Yes
+8,Flipkart,2024-03-20,Haldiram Gulab Jamun,"Too oily, not fresh.",Product freshness,Negative,Yes
+9,Instagram,2024-03-22,Haldiram Snacks Gift Pack,Not festive looking as shown online.,Visual expectation mismatch,Negative,Yes
+10,Blinkit,2024-03-23,Haldiram Dal Moth,"Crushed pack, not edible.",Poor handling,Negative,Yes
+11,Amazon,2024-03-25,Haldiram Kaju Katli,Tasted stale on delivery.,Stale product,Negative,Yes
+12,Zepto,2024-03-28,Haldiram Boondi Ladoo,Looks beautiful but way too dry.,Moisture issue,Negative,Yes
+13,YouTube,2024-03-30,Haldiram Snack Pack,Gift box looked premium but contents were minimal.,Packaging vs contents,Negative,Yes
+14,Reddit,2024-04-02,Haldiram Mathri,Soggy despite airtight seal.,Poor quality,Negative,Yes
+15,Amazon,2024-04-05,Haldiram Paneer Tikka Combo,Paneer tasted rubbery.,Product quality issue,Negative,Yes
+16,Twitter,2024-04-07,Haldiram Navratan Mix,Overpriced for this taste.,Value for money concern,Negative,Yes
+17,Flipkart,2024-04-10,Haldiram Rasmalai,Tasted nothing like traditional rasmalai.,Taste deviation,Negative,Yes
+18,Instagram,2024-04-12,Haldiram Snackers Combo,Packaging was dented.,Packaging disappointment,Negative,Yes
+19,Amazon,2024-04-15,Haldiram Rajbhog,One piece tasted sour.,Quality inconsistency,Negative,Yes
+20,Zepto,2024-04-17,Haldiram Ready-to-Eat Rajma,Mildly fermented taste.,Potential spoilage,Negative,Yes
+21,Twitter,2024-04-20,Haldiram Moong Dal,Tastes like oil has been reused.,Oil quality issue,Negative,Yes
+22,YouTube,2024-04-22,Haldiram Chana Jor Garam,Pack opened with stale smell.,Product not fresh,Negative,Yes
+23,Amazon,2024-04-25,Haldiram Tikka Meal Box,Not enough quantity for lunch.,Portion size issue,Negative,Yes
+24,Instagram,2024-04-28,Haldiram Lassi Combo,Not chilled and turned sour.,Storage issue,Negative,Yes
+25,Flipkart,2024-05-01,Haldiram Samosa Pack,Stiff and chewy.,Not fresh or soft,Negative,Yes
+26,Reddit,2024-05-03,Haldiram Mixture,"Too many peanuts, felt like filler.",Product mix imbalance,Negative,Yes
+27,Twitter,2024-05-05,Haldiram Aloo Tikki,"Meh taste, packaging looked better.",Over-marketed,Negative,Yes
+28,Amazon,2024-05-08,Haldiram Rasgulla Tin,Leaked syrup on opening.,Seal failure,Negative,Yes
+29,Instagram,2024-05-10,Haldiram Mithai Box,"All mithai looked the same, not assorted.",Misleading variety claim,Negative,Yes
+30,YouTube,2024-05-12,Haldiram Combo Kit,Not worth the price.,Value disappointment,Negative,Yes
+31,Flipkart,2024-05-15,Haldiram Chivda Mix,"Too salty, couldn’t eat more than a bite.",Taste imbalance,Negative,Yes
+32,Amazon,2024-05-17,Haldiram Milk Cake,"Looked rich online, tasted bland.",Expectation mismatch,Negative,Yes
+33,Reddit,2024-05-20,Haldiram Frozen Paratha,"Too hard after heating, not like homemade.",Texture issue,Negative,Yes
+34,Twitter,2024-05-22,Haldiram Thali Box,Smaller in real than shown in image.,Size discrepancy,Negative,Yes
+35,Instagram,2024-05-25,Haldiram Bhujia Snack Jar,Jar was cracked inside sealed box.,Packaging damage,Negative,Yes
+36,Amazon,2024-05-27,Haldiram Sweets Combo,Repeated same sweets in variety box.,False variety claim,Negative,Yes
+37,Zepto,2024-05-29,Haldiram Poha Pack,"Portion very less, not satisfying.",Quantity mismatch,Negative,Yes
+38,YouTube,2024-06-01,Haldiram Namkeen Gift Hamper,"Hamper looked luxurious, felt cheap.",Visual vs real mismatch,Negative,Yes
+39,Twitter,2024-06-04,Haldiram Soya Sticks,"Tasted stale, felt old stock.",Old inventory,Negative,Yes
+40,Flipkart,2024-06-07,Haldiram Peda,"Not fresh, sticky texture.",Freshness concern,Negative,Yes

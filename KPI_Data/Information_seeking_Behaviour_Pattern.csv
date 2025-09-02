@@ -1,0 +1,31 @@
+Sr. No.,Search Platform,Query Type,Information Sought,Example Query,Sentiment
+1,Google PAA,Ingredients,Haldiram Bhujia ingredients,“What is in Haldiram’s Bhujia?”,Neutral
+2,Twitter,Allergens,Use of peanuts,“Does Haldiram’s snacks contain peanuts?”,Neutral
+3,Reddit,Recipes,DIY Namkeen,“Can I replicate Haldiram’s Aloo Bhujia recipe?”,Positive
+4,Facebook Group,Store Hours,Outlet timings,“Is Haldiram open late on Sundays?”,Neutral
+5,Quora,Ingredients,Gluten-free products,“Is Haldiram's food suitable for gluten intolerants?”,Neutral
+6,Instagram,Product Details,Vegan options,“Are there vegan options in Haldiram’s snack range?”,Neutral
+7,Zomato,Product Quality,Snack freshness,“How fresh are Haldiram’s chips when delivered?”,Neutral
+8,Google PAA,Nutritional Info,Calorie count,“How many calories are in Haldiram’s Bhujia?”,Neutral
+9,Quora,Allergens,Lactose concerns,“Is Haldiram’s sweets suitable for lactose intolerants?”,Neutral
+10,Twitter,Ingredients,Preservative use,“Does Haldiram add preservatives to its snacks?”,Negative
+11,YouTube Comment,Recipes,Cooking with products,“What dishes can I prepare using Haldiram’s Aloo Bhujia?”,Positive
+12,Reddit,Product Details,Most popular items,“What are the top 5 Haldiram snacks to buy?”,Positive
+13,Facebook Review,Allergens,Gluten presence,“Does Haldiram’s Namkeen have wheat or gluten?”,Neutral
+14,Instagram Story,Store Locations,Nearest outlet,“Where is the nearest Haldiram store in Delhi?”,Neutral
+15,Google Reviews,Product Availability,Online availability,“Can I buy Haldiram on Amazon?”,Neutral
+16,Zomato,Store Hours,Delivery times,“Does Haldiram deliver food at night?”,Neutral
+17,Quora,Nutritional Info,Low-sodium options,“Do Haldiram snacks have low salt?”,Neutral
+18,Twitter,Ingredients,Natural sugars,“Are Haldiram’s sweets made with refined sugar?”,Neutral
+19,Reddit,Recipes,Mathri recipe,“How can I prepare Mathri like Haldiram’s?”,Positive
+20,Google PAA,Allergens,Nut allergy safety,“Is Haldiram safe for people with nut allergies?”,Neutral
+21,Facebook,Recipes,Quick snack recipes,“Easy recipes using Haldiram’s Boondi?”,Positive
+22,Instagram DM,Product Origin,Country of origin,“Is Haldiram an Indian brand?”,Neutral
+23,Twitter,Packaging,Eco-friendly packaging,“Does Haldiram use biodegradable packaging?”,Positive
+24,YouTube Comment,Reviews,Product taste,“How tasty is Haldiram’s Rasgulla compared to Bikaji’s?”,Positive
+25,Google PAA,Product Use,Suitable for parties,“Is Haldiram namkeen good for birthday parties?”,Positive
+26,Reddit,Comparisons,Competitor analysis,“Bikaji vs Haldiram – which one is better?”,Mixed
+27,Quora,Health & Safety,Expiry details,“How long do Haldiram’s snacks stay fresh?”,Neutral
+28,Zomato,Reviews,Delivery experience,“Does Haldiram deliver on time via Zomato?”,Neutral
+29,Google PAA,Recipes,Unique dish ideas,“Can I make Bhel using Haldiram’s mixtures?”,Positive
+30,Instagram Comment,Nutritional Info,Sugar-free options,“Does Haldiram offer sugar-free sweets?”,Neutral

@@ -1,0 +1,51 @@
+No.,Review Source,User Mentioned Brand,Sentiment ,Switch Trigger (Positive/Negative),Specific Reason for Switching,User's Sentiment on Haldiram,Date of Mention,Region (if available)
+1,Twitter,Bikaji,Negative,Price,Switched to Bikaji due to lower prices,Negative,15-01-2025,Maharashtra
+2,Instagram,Haldiram,Positive,Quality,Switched to Haldiram after poor quality from X brand,Positive,10-01-2025,Delhi
+3,Facebook,Haldiram,Negative,Quality,Tried Haldiram after dissatisfaction with Y brand,Negative,12-01-2025,Uttar Pradesh
+4,Reddit,Bikaji,Negative,Taste,Switched to Bikaji for better taste,Negative,14-01-2025,Punjab
+5,Twitter,Haldiram,Positive,Product Range,Switched to Haldiram due to better variety,Positive,16-01-2025,Mumbai
+6,Instagram,Haldiram,Negative,Price,Switched away from Haldiram because it is more expensive,Negative,17-01-2025,Karnataka
+7,Facebook,Bikaji,Negative,Customer Service,Switched to Bikaji due to poor customer service,Neutral,11-01-2025,Rajasthan
+8,Twitter,Haldiram,Positive,Availability,Switched to Haldiram as it was more readily available,Positive,13-01-2025,Delhi
+9,Instagram,Bikaji,Negative,Taste,Tried Bikaji after poor taste in Haldiram,Negative,15-01-2025,Tamil Nadu
+10,Facebook,Haldiram,Positive,Brand Loyalty,Stayed with Haldiram due to long brand loyalty,Positive,18-01-2025,Gujarat
+11,Reddit,Haldiram,Negative,Quality,Switched from Haldiram due to poor product quality,Negative,20-01-2025,Kerala
+12,Twitter,Bikaji,Negative,Price,Switched to Bikaji because it's more affordable,Negative,21-01-2025,Maharashtra
+13,Instagram,Haldiram,Positive,Customer Experience,Switched to Haldiram after a better customer experience,Positive,18-01-2025,Uttar Pradesh
+14,Facebook,Bikaji,Negative,Packaging,Switched to Bikaji due to better packaging,Negative,22-01-2025,Andhra Pradesh
+15,Reddit,Haldiram,Positive,Health Concerns,Switched to Haldiram due to healthier alternatives,Positive,23-01-2025,Bihar
+16,Instagram,Bikaji,Negative,Flavor Variety,Switched to Bikaji for better flavor options,Negative,14-01-2025,Rajasthan
+17,Twitter,Haldiram,Negative,Lack of Innovation,Switched to Bikaji after seeing more innovative products,Negative,17-01-2025,Uttar Pradesh
+18,Facebook,Haldiram,Positive,Packaging,Switched to Haldiram due to attractive packaging,Positive,16-01-2025,Delhi
+19,Reddit,Bikaji,Negative,Quality,Switched away from Bikaji after poor quality,Negative,19-01-2025,West Bengal
+20,Instagram,Haldiram,Positive,Price,Switched to Haldiram after a price drop,Positive,20-01-2025,Haryana
+21,Twitter,Bikaji,Negative,Customer Service,Switched to Bikaji for superior customer service,Negative,22-01-2025,Punjab
+22,Facebook,Haldiram,Negative,Product Quality,Switched from Haldiram due to poor product quality,Negative,11-01-2025,Maharashtra
+23,Reddit,Bikaji,Negative,Product Range,Switched to Bikaji for more options,Negative,14-01-2025,Tamil Nadu
+24,Instagram,Haldiram,Positive,Taste,Switched to Haldiram for better taste,Positive,18-01-2025,Kerala
+25,Facebook,Bikaji,Positive,Price,Switched away from Bikaji due to higher prices,Positive,12-01-2025,Gujarat
+26,Reddit,Haldiram,Positive,Brand Recognition,Stayed loyal to Haldiram due to strong brand presence,Positive,13-01-2025,Haryana
+27,Twitter,Bikaji,Positive,Quality,Switched to Haldiram after disappointment with Bikaji,Positive,15-01-2025,Andhra Pradesh
+28,Instagram,Haldiram,Negative,Lack of Options,Switched away from Haldiram due to limited choices,Negative,11-01-2025,Uttar Pradesh
+29,Facebook,Bikaji,Negative,Price,Switched to Bikaji after price reduction,Negative,17-01-2025,Rajasthan
+30,Reddit,Haldiram,Negative,Health Concerns,Switched from Haldiram for healthier alternatives,Negative,19-01-2025,West Bengal
+31,Instagram,Bikaji,Negative,Customer Experience,Switched to Bikaji after excellent service,Negative,22-01-2025,Karnataka
+32,Facebook,Haldiram,Negative,Product Quality,Switched to Bikaji after issues with Haldiram's quality,Negative,13-01-2025,Maharashtra
+33,Reddit,Bikaji,Negative,Taste,Switched to Bikaji after trying the new flavor,Positive,15-01-2025,Delhi
+34,Instagram,Haldiram,Negative,Brand Perception,Switched to another brand after negative perception,Negative,20-01-2025,Tamil Nadu
+35,Twitter,Bikaji,Positive,Availability,Switched away from Bikaji due to lack of availability,Positive,21-01-2025,Kerala
+36,Facebook,Haldiram,Positive,Product Range,Switched to Haldiram for broader range of products,Positive,18-01-2025,Delhi
+37,Reddit,Haldiram,Negative,Flavor,Switched to Bikaji for better flavor,Negative,12-01-2025,Rajasthan
+38,Instagram,Bikaji,Negative,Packaging,Switched to Bikaji for better packaging,Negative,17-01-2025,Punjab
+39,Facebook,Haldiram,Negative,Price,Switched from Haldiram due to higher pricing,Negative,14-01-2025,Maharashtra
+40,Reddit,Bikaji,Negative,Quality,Switched to Bikaji after a positive experience,Negative,13-01-2025,Uttar Pradesh
+41,Instagram,Haldiram,Negative,Product Range,Switched from Haldiram after limited choices,Negative,16-01-2025,Bihar
+42,Facebook,Bikaji,Negative,Health-conscious choices,Switched to Bikaji for healthier options,Negative,18-01-2025,Gujarat
+43,Twitter,Haldiram,Positive,Customer Service,Stayed with Haldiram due to excellent customer service,Positive,20-01-2025,Punjab
+44,Reddit,Bikaji,Positive,Product Quality,Switched from Bikaji due to poor quality,Positive,14-01-2025,West Bengal
+45,Instagram,Haldiram,Positive,Availability,Switched to Haldiram for easy availability,Positive,12-01-2025,Tamil Nadu
+46,Facebook,Bikaji,Positive,Price,Switched to Haldiram due to more competitive pricing,Positive,11-01-2025,Maharashtra
+47,Reddit,Haldiram,Positive,Brand Image,Switched to Haldiram due to its stronger image,Positive,21-01-2025,Uttar Pradesh
+48,Instagram,Bikaji,Positive,Quality,Switched to Haldiram for better quality,Positive,15-01-2025,Haryana
+49,Facebook,Haldiram,Positive,Price,Switched to Haldiram after price drop,Positive,17-01-2025,Gujarat
+50,Reddit,Bikaji,Negative,Customer Experience,Switched to Bikaji for better service,Negative,14-01-2025,Kerala

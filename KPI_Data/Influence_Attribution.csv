@@ -1,0 +1,51 @@
+Sr. No.,Influence Source Type,Mentioned Platform,Example User Statement,Sentiment,Notes
+1,TV Advertisement,Facebook,"""Tried Haldiram after seeing the TV ad during IPL.""",Positive,Celebrity endorsement helped
+2,Friend Recommendation,Instagram,"""My college friend insisted I try their namkeen.""",Positive,Word of mouth
+3,Food Blogger Post,Instagram,"""Saw a foodie post about Haldiram sweets.""",Positive,Visual appeal worked
+4,In-Store Promotion,Twitter,"""Tasted samples at store and bought a pack.""",Positive,Sampling triggered purchase
+5,Family Tradition,Facebook,"""We always buy Haldiram for Diwali gifts.""",Positive,Strong emotional link
+6,YouTube Food Review,YouTube,"""Watched a review comparing snacks, Haldiram won!""",Positive,Credibility of reviewer
+7,Festival Offer,Facebook,"""Discounts during Holi tempted me to buy bulk.""",Positive,Price sensitivity shown
+8,Colleague Suggestion,Instagram,"""Office snacks recommendation!""",Positive,Casual workplace influence
+9,Radio Jingle,Twitter,"""Caught their catchy radio song while driving.""",Neutral,"Recall strong, conversion unclear"
+10,Online Ad Pop-up,Facebook,"""Clicked an ad offering free delivery.""",Positive,Convenience drove action
+11,Instagram Story,Instagram,"""My cousin posted Haldiram sweets on her story.""",Positive,Peer influence
+12,Celebrity Endorsement,Facebook,"""Saw a Bollywood actor with Haldiram box!""",Positive,Aspirational pull
+13,YouTube Ad,YouTube,"""Short ad before my cooking video—looked tempting.""",Positive,Timing mattered
+14,Store Display,Instagram,"""Spotted a colorful shelf in the supermarket.""",Positive,Visual merchandising effective
+15,Newspaper Insert,Facebook,"""Saw a leaflet with coupons in Sunday paper.""",Positive,Traditional media working
+16,Email Marketing,Facebook,"""Got a festive offer mail and ordered snacks.""",Positive,Timely targeting
+17,WhatsApp Forward,WhatsApp,"""Family group shared a Haldiram offer!""",Positive,Viral messaging
+18,Movie Placement,Twitter,"""Noticed Haldiram pack in a Bollywood movie scene.""",Neutral,Subtle influence
+19,Reddit Recommendation,Reddit,"""People on foodie Reddit swore by their bhujia.""",Positive,Community trust
+20,TikTok Food Trend,TikTok,"""Trending sweet box unboxing videos!""",Positive,Visual engagement
+21,Facebook Group Poll,Facebook,"""Poll showed Haldiram as favorite snack brand.""",Positive,Community voting influence
+22,Neighbor Suggestion,Instagram,"""My neighbor recommended their laddoo.""",Positive,Local social trust
+23,Travel Vlog Mention,YouTube,"""Vlogger featured Haldiram store in Delhi trip.""",Positive,Experience sharing
+24,Food Challenge Video,YouTube,"""Saw spicy snack challenge featuring Haldiram.""",Positive,Fun engagement
+25,Supermarket Loyalty Offer,Facebook,"""Bonus points for buying Haldiram snacks.""",Positive,Incentivized loyalty
+26,School/College Event,Instagram,"""Tasted it during college fest stalls!""",Positive,Event sampling
+27,Food App Recommendation,Instagram,"""Zomato kept recommending Haldiram combos.""",Positive,App algorithm influence
+28,Sister's Suggestion,Instagram,"""My sister raved about their sweets after marriage!""",Positive,Family connection
+29,Viral Food Meme,Twitter,"""Funny meme made me crave their samosa.""",Positive,Humor-driven impulse
+30,Influencer Collaboration,Instagram,"""Food influencer did a tasting collab!""",Positive,Paid partnerships working
+31,Amazon Product Review,Amazon,"""Top rated in snacks category, had to try.""",Positive,Trust in ratings
+32,Coupon Website,Facebook,"""Coupon deal grabbed my attention!""",Positive,Deal hunting behavior
+33,Store Loyalty Program,Instagram,"""Discounted through loyalty points redemption.""",Positive,Long-term loyalty capture
+34,Family Recommendation,WhatsApp,"""Mom always recommends Haldiram during shopping.""",Positive,Generational brand loyalty
+35,Pet Food Blogger Mention,Instagram,"""Even pet bloggers joked about sharing bhujia!""",Positive,Light humor influence
+36,Billboard Advertising,Facebook,"""Big banner near my house caught my eye.""",Positive,Local targeting
+37,Google Shopping Ads,Facebook,"""Searched snacks, first ad was Haldiram's.""",Positive,Paid search placement
+38,University Cafeteria Offer,Instagram,"""Tried it during college canteen festival!""",Positive,Student exposure
+39,Grocery Store App,Instagram,"""Blinkit suggested Haldiram combos.""",Positive,Digital basket promotions
+40,Local Event Sponsorship,Twitter,"""Sponsored our community sports day snacks.""",Positive,Community goodwill
+41,Snapchat Filter Promo,Snapchat,"""Saw a festive Haldiram filter ad!""",Positive,"Fun, festive promotions"
+42,Blogger Recipe Mention,YouTube,"""Blogger used Haldiram sweets in a dessert recipe.""",Positive,Recipe integrations
+43,LinkedIn Company Post,LinkedIn,"""Corporate gifting posts showed their hampers.""",Positive,Business influence
+44,Food Delivery Promo,Instagram,"""Swiggy had 1+1 offer on Haldiram.""",Positive,Impulse buying
+45,Packaging Innovation,Instagram,"""New eco-pack grabbed my attention!""",Positive,Sustainability appeal
+46,School Teacher's Tip,Instagram,"""School teacher suggested namkeen for lunchbox.""",Positive,Trust factor
+47,Health Influencer Post,Instagram,"""Low-oil range recommended by fitness coach.""",Positive,Health-conscious promotion
+48,Branded Cart Setup,Facebook,"""Mini cart at metro station selling Haldiram!""",Positive,Visibility play
+49,Mother's Suggestion,WhatsApp,"""Mom texted me to buy for guests.""",Positive,Home-driven shopping
+50,Gym Buddy Mention,Instagram,"""Workout partner brought protein laddoo!""",Positive,Niche product seeding

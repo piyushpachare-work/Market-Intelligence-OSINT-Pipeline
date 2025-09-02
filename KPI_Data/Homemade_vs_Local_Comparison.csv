@@ -1,0 +1,51 @@
+ID,Platform,Product Category,Product Name,Compared With,Comparison Type,Key Aspect Compared,Sentiment,Summary of Feedback,Location,Date
+1,Twitter,Sweets,Rasgulla,Homemade,Taste,Taste,Negative,Not as spongy and juicy as mom's version.,Delhi,2024-03-10
+2,Zomato,Namkeen,Aloo Bhujia,Local Shop,Price,Price,Positive,Cheaper than what I get from the street vendor.,Mumbai,2024-03-15
+3,Reddit,Sweets,Soan Papdi,Homemade,Texture,Texture,Positive,More consistent than the crumbly homemade version.,Bangalore,2024-03-20
+4,Facebook,Sweets,Gulab Jamun,Local Sweet Shop,Freshness,Freshness,Negative,Tasted a bit preserved compared to the fresh local ones.,Nagpur,2024-03-25
+5,YouTube,Snacks,Mini Samosa,Homemade,Overall Taste,Taste,Neutral,Good for quick cravings but not like homemade ones.,Pune,2024-03-29
+6,Twitter,Namkeen,Khatta Meetha,Local Vendor,Flavor,Taste,Positive,Unique Haldiram masala flavor is hard to beat.,Jaipur,2024-04-02
+7,Reddit,Snacks,Mathri,Homemade,Shelf Life,Shelf Life,Positive,Lasts longer than homemade with good crunch.,Lucknow,2024-04-04
+8,Instagram,Sweets,Kaju Katli,Local Sweet Shop,Price,Price,Negative,Almost double the cost of my local shop!,Chennai,2024-04-06
+9,Facebook,Snacks,Moong Dal,Homemade,Healthiness,Ingredients,Neutral,"Okayish, probably has preservatives.",Kolkata,2024-04-08
+10,Twitter,Sweets,Imarti,Homemade,Sweetness,Taste,Negative,Too sweet and syrupy.,Varanasi,2024-04-10
+11,YouTube,Namkeen,Navratan Mixture,Local Vendor,Variety,Ingredients,Positive,Loved the mix – more exciting than local stuff.,Patna,2024-04-13
+12,Instagram,Sweets,Peda,Homemade,Authenticity,Taste,Negative,Lacked that ghee smell from homemade ones.,Hyderabad,2024-04-15
+13,Reddit,Snacks,Papdi Chaat,Local Street Vendor,Crispness,Freshness,Neutral,Crispy but sauce tasted packaged.,Bhopal,2024-04-18
+14,Twitter,Namkeen,Chana Jor Garam,Homemade,Crunch,Texture,Positive,Perfectly crisp and non-oily.,Ahmedabad,2024-04-20
+15,Facebook,Sweets,Besan Ladoo,Homemade,Aroma,Taste,Negative,Missed the roasted aroma of homemade ones.,Surat,2024-04-22
+16,Zomato,Sweets,Barfi,Local Sweet Shop,Appearance,Presentation,Neutral,Nice packaging but looks artificial.,Amritsar,2024-04-25
+17,YouTube,Snacks,Bhakarwadi,Homemade,Spiciness,Flavor,Positive,Perfect spice hit. Better than my aunt’s version!,Nashik,2024-04-28
+18,Instagram,Sweets,Kalakand,Local Shop,Moisture Level,Texture,Negative,Dry compared to the juicy fresh ones.,Indore,2024-05-01
+19,Reddit,Snacks,Masala Peanuts,Homemade,Cleanliness,Hygiene,Positive,Less oil and clean packing – unlike homemade batch.,Kanpur,2024-05-03
+20,Facebook,Sweets,Cham Cham,Local Sweet Shop,Taste,Taste,Positive,Much tastier than expected. Good job Haldiram!,Chandigarh,2024-05-06
+21,Twitter,Sweets,Milk Cake,Homemade,Sweetness,Taste,Neutral,"Balanced sweetness, but homemade one felt richer.",Jodhpur,2024-05-09
+22,Instagram,Namkeen,Sev,Local Vendor,Oiliness,Texture,Positive,Less oily and crunchy.,Madurai,2024-05-12
+23,Facebook,Sweets,Jalebi,Local Sweet Shop,Presentation,Appearance,Negative,Looked dull and broken on arrival.,Raipur,2024-05-14
+24,Reddit,Snacks,Dhokla,Homemade,Fluffiness,Texture,Positive,Surprisingly soft and airy. Better than my recipe.,Vadodara,2024-05-16
+25,Zomato,Sweets,Rabdi,Local Sweet Shop,Authenticity,Taste,Neutral,"Good, but lacked depth in flavor.",Bhubaneswar,2024-05-18
+26,YouTube,Snacks,Samosa,Local Vendor,Stuffing Quality,Ingredients,Positive,Good balance of spice and potato filling.,Agra,2024-05-21
+27,Instagram,Namkeen,Bhel Mix,Homemade,Convenience,Freshness,Positive,"Easy to prepare, tasty even when stored.",Ranchi,2024-05-23
+28,Facebook,Sweets,Malai Sandwich,Homemade,Texture,Freshness,Negative,Felt rubbery compared to freshly made one.,Mangalore,2024-05-25
+29,Reddit,Snacks,Chivda,Local Vendor,Variety,Ingredients,Positive,"Loved the nut and spice mix, more premium than local.",Gwalior,2024-05-27
+30,Twitter,Sweets,Khoya Burfi,Homemade,Density,Texture,Negative,Too dense and sugary.,Siliguri,2024-05-29
+31,Instagram,Namkeen,Masala Sticks,Local Shop,Spiciness,Flavor,Neutral,"Okay taste, but lacked the punch.",Kochi,2024-06-01
+32,Facebook,Sweets,Balushahi,Homemade,Sweetness,Taste,Negative,Not flaky enough and too sweet.,Guwahati,2024-06-03
+33,Reddit,Snacks,Kachori,Local Vendor,Stuffing Quality,Taste,Positive,Stuffed well and crispy – impressed.,Jamshedpur,2024-06-05
+34,Zomato,Namkeen,Cornflakes Mixture,Homemade,Healthiness,Ingredients,Neutral,"Slightly oily, but flavorful.",Dehradun,2024-06-07
+35,YouTube,Snacks,Tikki,Local Vendor,Spices,Flavor,Positive,Excellent masala mix – better than my usual street guy.,Jammu,2024-06-10
+36,Instagram,Sweets,Boondi Ladoo,Homemade,Softness,Texture,Negative,Felt dry and powdery.,Kota,2024-06-13
+37,Facebook,Namkeen,Nimki,Local Shop,Crunch,Texture,Positive,"Fresh, crispy, and well-salted.",Udaipur,2024-06-15
+38,Reddit,Sweets,Sandesh,Homemade,Sweetness,Taste,Neutral,Felt artificial – homemade has richer taste.,Durgapur,2024-06-17
+39,Twitter,Snacks,Cutlet,Local Vendor,Outer Coating,Texture,Positive,Crunchy coating and soft inside – good job!,Bareilly,2024-06-20
+40,YouTube,Sweets,Coconut Ladoo,Homemade,Aroma,Taste,Negative,Missed the natural coconut smell.,Guntur,2024-06-22
+41,Instagram,Namkeen,Peanut Chikki,Local Shop,Stickiness,Texture,Neutral,Tough to chew. Felt a bit too sticky.,Warangal,2024-06-24
+42,Facebook,Snacks,Dahi Puri,Local Vendor,Filling Taste,Ingredients,Positive,Perfect mix of spice and yogurt.,Meerut,2024-06-26
+43,Reddit,Sweets,Lassi,Homemade,Creaminess,Taste,Negative,Thin consistency compared to homemade.,Rohtak,2024-06-28
+44,Twitter,Sweets,Halwa,Homemade,Texture,Taste,Neutral,"Not bad, but homemade one has better ghee flavor.",Gaya,2024-07-01
+45,Zomato,Snacks,Paneer Pakoda,Local Vendor,Stuffing,Taste,Positive,Paneer was soft and masala-rich.,Bikaner,2024-07-03
+46,Instagram,Sweets,Shrikhand,Homemade,Consistency,Texture,Negative,Too thick and overly flavored.,Solapur,2024-07-05
+47,Facebook,Namkeen,Mix Farsan,Local Shop,Oiliness,Texture,Positive,Less oily and tastes clean.,Rewa,2024-07-07
+48,Reddit,Snacks,Paneer Roll,Local Vendor,Filling Quality,Ingredients,Neutral,"Good flavor, but less stuffing.",Bilaspur,2024-07-10
+49,YouTube,Sweets,Modak,Homemade,Filling Taste,Taste,Negative,Lacked the jaggery-coconut richness.,Panaji,2024-07-12
+50,Twitter,Snacks,Pakodi,Local Vendor,Oil Content,Texture,Positive,"Not oily, crispy and golden brown.",Rajkot,2024-07-15

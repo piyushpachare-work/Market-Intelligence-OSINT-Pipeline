@@ -1,0 +1,51 @@
+S.No.,Platform,User Phrase,Haldiram Products Mentioned,Other Items Bought Together,Basket Type,Tone,Inferred Occasion
+1,Amazon,"""Stocked Bhujia and Khatta Meetha this weekend""","Bhujia, Khatta Meetha","Cold drinks, Chips",Snacks,Excited,Party
+2,Twitter,"""Monthly groceries done: rice, dal, and Haldiram sweets!""","Rasgulla, Soan Papdi","Rice, Dal",Grocery,Routine,Monthly stock
+3,Instagram,"""Bought Aloo Bhujia with Coke and Maggi""",Aloo Bhujia,"Coke, Maggi",Snacks,Casual,Daily
+4,Reddit,"""Prepping Diwali gift hampers with Haldiram sweets and dry fruits""","Rasgulla, Gulab Jamun",Dry fruits,Festive,Excited,Festival
+5,Facebook,"""Grabbed Haldiram Namkeen while buying fruits""",Navratan Mix,Fruits,Grocery,Routine,Daily
+6,Amazon,"""Party snacks: Haldiram, Lays, Pepsi""","Khatta Meetha, Bhujia","Lays, Pepsi",Snacks,Excited,Party
+7,Twitter,"""Tea-time essentials: Moong Dal and Parle-G""",Moong Dal,Parle-G biscuits,Snacks,Casual,Daily
+8,Instagram,"""Sweet cravings - Soan Papdi with ice cream""",Soan Papdi,Ice Cream,Dessert Basket,Excited,Treat
+9,Reddit,"""Bought Namkeen and Biryani ready-mix together""",Punjabi Tadka,Biryani Mix,Food Combo,Routine,Weekend special
+10,Facebook,"""Loaded cart: Haldiram's, Marie biscuits, tea leaves""",Aloo Bhujia,"Marie Biscuits, Tea",Grocery,Routine,Monthly stock
+11,Amazon,"""Weekend treat - Bhujia, chocolate, and beer!""",Bhujia,"Chocolate, Beer",Party Snacks,Excited,Party
+12,Twitter,"""Haldiram sweets plus bakery goodies for family meet-up""","Rasgulla, Cham Cham","Cake, Bread",Festive,Excited,Family gathering
+13,Instagram,"""Picked up Haldiram namkeen and frozen momos""",Khatta Meetha,Frozen Momos,Food Basket,Casual,Daily treat
+14,Reddit,"""Got Haldiram and Britannia rusk for tea-time munching""",Moong Dal,Britannia Rusk,Snacks,Routine,Tea time
+15,Facebook,"""Weekly shopping: Milk, Bread, and Haldiram!""",Navratan Mix,"Milk, Bread",Grocery,Routine,Weekly stock
+16,Amazon,"""Bought Soan Papdi, dry fruits, and mithai box for Diwali""",Soan Papdi,"Dry fruits, Mithai box",Festive,Excited,Festival
+17,Twitter,"""Chai party: Bhujia, Mathri, and chai""","Bhujia, Mathri",Tea,Snacks,Excited,Gathering
+18,Instagram,"""Quick snack - Haldiram sev and instant noodles""",Sev,Instant Noodles,Snacks,Casual,Daily
+19,Reddit,"""My basket today: Khatta Meetha and orange juice""",Khatta Meetha,Orange Juice,Food Combo,Routine,Daily
+20,Facebook,"""Grocery essentials: Rice, Tea, Namkeen""",Moong Dal,"Rice, Tea",Grocery,Routine,Monthly stock
+21,Amazon,"""Soan Papdi + Gulab Jamun combo for Rakhi""","Soan Papdi, Gulab Jamun",Rakhi Gifts,Festive,Excited,Festival
+22,Twitter,"""Stocked Bhujia with soft drinks for cricket night!""",Bhujia,Soft Drinks,Snacks,Excited,Party
+23,Instagram,"""Midnight munchies - Aloo Bhujia and soda""",Aloo Bhujia,Soda,Snacks,Casual,Night snacking
+24,Reddit,"""Loaded cart with sweets, dry fruits, and snacks""","Rasgulla, Soan Papdi","Dry Fruits, Cookies",Festive,Excited,Festival
+25,Facebook,"""Morning chai scenes with Haldiram sev and butter toast""",Sev,Butter Toast,Breakfast,Routine,Daily
+26,Amazon,"""Family shopping: Haldiram, Amul cheese, and bread""",Navratan Mix,"Amul Cheese, Bread",Grocery,Routine,Family stock
+27,Twitter,"""Weekend essentials: Bhujia, Kurkure, Sprite""",Bhujia,"Kurkure, Sprite",Snacks,Casual,Weekend stock
+28,Instagram,"""Gift basket idea: Haldiram sweets + dry fruits + candles""",Gulab Jamun,"Dry Fruits, Candles",Festive,Excited,Gifting
+29,Reddit,"""Bought khatta meetha, masala peanuts, and ready-to-cook meals""",Khatta Meetha,"Masala Peanuts, RTC Meals",Food Basket,Routine,Quick meal
+30,Facebook,"""Rushed to store for Bhujia and Milk before guests arrived!""",Bhujia,Milk,Grocery,Excited,Emergency
+31,Amazon,"""Diwali party pack: sweets, namkeen, chocolates""","Soan Papdi, Khatta Meetha",Chocolates,Festive,Excited,Festival
+32,Twitter,"""Restocked my favorite Haldiram moong dal and Parle snacks""",Moong Dal,Parle Chips,Snacks,Routine,Monthly restock
+33,Instagram,"""Breakfast fix: Aloo Bhujia and brown bread""",Aloo Bhujia,Brown Bread,Breakfast,Casual,Daily
+34,Reddit,"""Family loves Haldiram gulab jamun with vanilla ice cream""",Gulab Jamun,Vanilla Ice Cream,Dessert,Excited,Family treat
+35,Facebook,"""Had to grab Bhujia along with Pepsi!""",Bhujia,Pepsi,Snacks,Casual,Daily
+36,Amazon,"""My weekend basket: Namkeen, bananas, curd""",Navratan Mix,"Banana, Curd",Food Basket,Routine,Weekend stock
+37,Twitter,"""Tea snacks shopping: Haldiram sev and cakes""",Sev,Cakes,Snacks,Casual,Tea party
+38,Instagram,"""Quick shopping: Haldiram namkeen, butter, fruits""",Khatta Meetha,"Butter, Fruits",Grocery,Routine,Daily
+39,Reddit,"""Ready for the evening - Bhujia, masala chai, samosas""",Bhujia,"Masala Chai, Samosas",Snacks,Excited,Evening treat
+40,Facebook,"""Monthly groceries include Haldiram sweets now!""",Rasgulla,"Rice, Lentils",Grocery,Routine,Monthly
+41,Amazon,"""Bought soan papdi and ladoos for pooja at home""",Soan Papdi,Ladoos,Festive,Excited,Religious
+42,Twitter,"""Namkeen + biscuits + jam = survival kit!""",Moong Dal,"Biscuits, Jam",Grocery,Casual,Hostel
+43,Instagram,"""Combo cart: Bhujia and Maggi for Sunday chill""",Bhujia,Maggi,Food Basket,Casual,Weekend
+44,Reddit,"""Big haul: sweets, chips, cold drinks!""","Rasgulla, Bhujia","Chips, Cold Drinks",Party Snacks,Excited,Party
+45,Facebook,"""Had to pick namkeen with grocery list!""",Punjabi Tadka,"Wheat, Tea",Grocery,Routine,Monthly stock
+46,Amazon,"""Restocking Diwali sweets: Gulab jamun and Soan papdi""","Gulab Jamun, Soan Papdi",,Festive,Excited,Festival
+47,Twitter,"""Grabbed Bhujia with my weekend beer!""",Bhujia,Beer,Snacks,Excited,Party
+48,Instagram,"""Haldiram snack binge: sev and chikki""",Sev,Chikki,Snacks,Excited,Treat
+49,Reddit,"""Loaded with Navratan mix and juices""",Navratan Mix,Juices,Grocery,Routine,Family
+50,Facebook,"""Can't live without Moong dal and chai in evenings""",Moong Dal,Tea,Snacks,Routine,Daily

@@ -1,0 +1,51 @@
+Sr. No,Platform,Mention Type,Product Type,Frequency,Region/Store Mentioned,Sentiment,Generation,Cross-Generational Appeal Description,Month,Resolution Status
+1,Facebook,Family Consumption,Snack Pack,High,"Delhi, Mumbai",Positive,Kids,"""My kids love it, and I always bought this for them.""",01-03-2024,Unresolved
+2,Instagram,Family Preference,"Sweets (Ladoo, etc.)",Medium,Bangalore,Positive,All Generations,"""My whole family loves Haldiram – even my parents, who are old-school, buy it.""",01-03-2024,Unresolved
+3,Twitter,Parent-Child Sharing,Savory Snacks (Chips),High,"Delhi, Mumbai",Positive,Kids,"""My kids and I eat it together, it's a tradition in our family.""",01-03-2024,Unresolved
+4,Facebook,Family Tradition,Sweets (Barfi),Medium,Pune,Positive,Parents,"""My parents always bought it for us, and now I do the same for my kids.""",01-03-2024,Unresolved
+5,Reddit,Intergenerational Bonding,Sweets (Ladoo),Medium,Chennai,Positive,All Generations,"""Haldiram brings us all together, from kids to grandparents.""",01-03-2024,Unresolved
+6,Instagram,Generational Popularity,Snacks (Chips),Medium,Kolkata,Positive,Grandparents,"""My grandparents still prefer Haldiram over other brands, even now.""",01-04-2024,Unresolved
+7,Twitter,Family Favorite,"Sweets (Barfi, Ladoo)",Medium,Mumbai,Positive,All Generations,"""Haldiram is a family favorite, everyone in my family loves it.""",01-04-2024,Unresolved
+8,Facebook,Shared Consumption,"Sweets (Ladoo, etc.)",High,National Coverage,Positive,Kids,"""I grew up eating Haldiram, now my kids love it too.""",01-04-2024,Unresolved
+9,Instagram,Family Snack Tradition,Savory Snacks (Chips),Low,"Delhi, Bengaluru",Positive,All Generations,"""It's been a tradition in our family to have Haldiram snacks.""",01-05-2024,Unresolved
+10,Twitter,Family Tradition,Sweets (Ladoo),High,Pan India,Positive,Parents,"""My parents loved Haldiram, and now I buy it for my kids.""",01-05-2024,Unresolved
+11,Reddit,Family Time,Savory Snacks (Chips),Medium,Kolkata,Positive,All Generations,"""Family time means Haldiram snacks for us.""",01-06-2024,Unresolved
+12,Instagram,Intergenerational Appeal,"Snacks (Chips, Sweets)",Medium,"Mumbai, Pune",Positive,Parents,"""My parents always bought Haldiram during holidays, and now I do the same.""",01-06-2024,Unresolved
+13,Facebook,Tradition of Consumption,Snacks (Chips),Medium,National Coverage,Positive,All Generations,"""Generations of my family have been enjoying Haldiram products.""",01-07-2024,Unresolved
+14,Twitter,Generational Consumption,Sweets (Ladoo),High,Delhi,Positive,All Generations,"""Generations in my family have always enjoyed Haldiram.""",01-07-2024,Unresolved
+15,Instagram,Family Tradition,Savory Snacks (Chips),Low,"Pune, Bengaluru",Positive,All Generations,"""It's a family tradition to have Haldiram during festivals.""",01-08-2024,Unresolved
+16,Reddit,Multi-Generational Appeal,"Sweets (Ladoo, Barfi)",Medium,"Chennai, Hyderabad",Positive,All Generations,"""From my grandparents to my kids, everyone loves Haldiram.""",01-08-2024,Unresolved
+17,Facebook,Snack Across Generations,Snacks (Chips),Medium,"Mumbai, Delhi",Positive,All Generations,"""Generations of my family have snacked on Haldiram.""",01-09-2024,Unresolved
+18,Instagram,Family Bonding,Sweets (Ladoo),Low,"Pune, Mumbai",Positive,All Generations,"""Family bonding means sharing Haldiram snacks.""",01-09-2024,Unresolved
+19,Twitter,Family Favorite Snack,Snacks (Chips),High,National,Positive,All Generations,"""We treat the family with Haldiram products on special occasions.""",01-10-2024,Unresolved
+20,Reddit,Loved Across Generations,"Sweets (Barfi, Ladoo)",High,"Pune, Delhi",Positive,All Generations,"""Everyone in my family loves Haldiram, no matter the generation.""",01-10-2024,Unresolved
+21,Instagram,Snack for All Ages,Snacks (Chips),Medium,"Mumbai, Delhi",Positive,Kids,"""Haldiram is a snack for everyone in my family, from kids to grandparents.""",01-11-2024,Unresolved
+22,Facebook,Generational Memory,Sweets (Barfi),Medium,"Chennai, Pune",Positive,Parents,"""Haldiram reminds us of family holidays from the past.""",01-11-2024,Unresolved
+23,Twitter,Cross-Generational Enjoyment,Snacks (Chips),Medium,"Delhi, Bengaluru",Positive,All Generations,"""We all enjoy Haldiram together, regardless of our age.""",01-12-2024,Unresolved
+24,Reddit,Intergenerational Snacks,Sweets (Ladoo),Medium,Hyderabad,Positive,Parents,"""My family always enjoys Haldiram snacks, it’s a tradition.""",01-12-2024,Unresolved
+25,Instagram,Festival Snacks,"Sweets (Ladoo, Barfi)",High,"Kolkata, Delhi",Positive,All Generations,"""We have Haldiram snacks during every family festival.""",01-01-2025,Unresolved
+26,Twitter,Family Treat,Snacks (Chips),Medium,Pan India,Positive,All Generations,"""We treat the family with Haldiram products on special occasions.""",01-01-2025,Unresolved
+27,Reddit,Loved Across Generations,Sweets (Barfi),High,"Pune, Delhi",Positive,All Generations,"""Everyone in my family loves Haldiram, no matter the generation.""",01-02-2025,Unresolved
+28,Facebook,Snack for All,Snacks (Chips),High,National,Positive,All Generations,"""Haldiram brings our family together, from kids to grandparents.""",01-02-2025,Unresolved
+29,Instagram,Generational Snack Choice,"Snacks (Chips, Sweets)",Low,"Mumbai, Bengaluru",Positive,All Generations,"""Haldiram is a snack that unites our family for generations.""",01-02-2025,Unresolved
+30,Twitter,Family Delight,"Sweets (Barfi, Ladoo)",High,"Delhi, Pune",Positive,All Generations,"""Haldiram is the delight of our family across generations.""",01-03-2025,Unresolved
+31,Reddit,Snack for All Generations,"Sweets (Ladoo, etc.)",Medium,"Bengaluru, Delhi",Positive,All Generations,"""Generations have shared Haldiram snacks together.""",01-03-2025,Unresolved
+32,Facebook,Multi-Generational Delight,Sweets (Barfi),Medium,National Coverage,Positive,All Generations,"""We all share a love for Haldiram products in our family.""",01-03-2025,Unresolved
+33,Instagram,Across Generations,Snacks (Chips),Low,"Mumbai, Pune",Positive,All Generations,"""Haldiram snacks are perfect for everyone in our family.""",01-03-2025,Unresolved
+34,Reddit,Generational Snack Choice,"Sweets (Ladoo, Barfi)",Medium,"Hyderabad, Chennai",Positive,All Generations,"""Haldiram is the snack of choice across all ages in our family.""",01-03-2025,Unresolved
+35,Facebook,Family Celebration,"Sweets (Barfi, Ladoo)",Medium,"Pune, Mumbai",Positive,All Generations,"""We celebrate together with Haldiram sweets.""",01-03-2025,Unresolved
+36,Instagram,Generational Bonding,Savory Snacks (Chips),Medium,"Delhi, Bengaluru",Positive,All Generations,"""It's the bonding time with Haldiram snacks for our family.""",01-03-2025,Unresolved
+37,Twitter,All-Age Favorite,Snacks (Chips),High,"Bengaluru, Chennai",Positive,All Generations,"""Our whole family loves Haldiram snacks, from the youngest to the oldest.""",01-03-2025,Unresolved
+38,Facebook,Tradition of Sharing,Sweets (Barfi),Medium,"Delhi, Mumbai",Positive,All Generations,"""Haldiram is a family treat passed down through generations.""",01-03-2025,Unresolved
+39,Instagram,Shared Snack Experience,Snacks (Chips),Low,"Pune, Mumbai",Positive,Parents,"""We share the snack experience with Haldiram products, generation after generation.""",01-03-2025,Unresolved
+40,Twitter,Generational Joy,Sweets (Ladoo),High,Pan India,Positive,Kids,"""My kids and parents both enjoy Haldiram, a brand loved by all generations.""",01-03-2025,Unresolved
+41,Reddit,Tradition of Enjoyment,"Sweets (Barfi, Ladoo)",High,"Delhi, Pune",Positive,All Generations,"""Haldiram has been a part of our family celebrations for generations.""",01-03-2025,Unresolved
+42,Instagram,Generational Joy,Sweets (Ladoo),Medium,Bangalore,Positive,All Generations,"""Haldiram brings joy to all ages in our family.""",01-03-2025,Unresolved
+43,Facebook,All-Age Treat,Snacks (Chips),High,National Coverage,Positive,Parents,"""From the youngest to the oldest, Haldiram is a treat for everyone in the family.""",01-03-2025,Unresolved
+44,Reddit,Generational Snack Sharing,Sweets (Barfi),Medium,"Pune, Hyderabad",Positive,All Generations,"""Our family shares memories and snacks with Haldiram.""",01-03-2025,Unresolved
+45,Instagram,Tradition of Delight,Snacks (Chips),High,"Delhi, Mumbai",Positive,All Generations,"""Generations of our family have delighted in Haldiram snacks.""",01-03-2025,Unresolved
+46,Facebook,Multi-Generational Favorite,Sweets (Ladoo),Medium,"Pune, Bengaluru",Positive,Kids,"""Haldiram is loved by all generations in our family.""",01-03-2025,Unresolved
+47,Reddit,Snack for Everyone,"Sweets (Ladoo, Barfi)",Medium,"Bengaluru, Delhi",Positive,Parents,"""No matter the age, everyone enjoys Haldiram in our family.""",01-03-2025,Unresolved
+48,Twitter,Generational Bonding,Snacks (Chips),Low,Chennai,Positive,Parents,"""Our family shares Haldiram snacks and memories from different generations.""",01-03-2025,Unresolved
+49,Facebook,Family Delight,Sweets (Ladoo),Medium,Pan India,Positive,Kids,"""Haldiram makes family moments special, enjoyed by everyone.""",01-03-2025,Unresolved
+50,Instagram,Generational Bonding,Sweets (Barfi),Medium,"Delhi, Mumbai",Positive,All Generations,"""Haldiram is the perfect treat for family gatherings across generations.""",01-03-2025,Unresolved

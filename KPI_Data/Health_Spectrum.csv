@@ -1,0 +1,51 @@
+S.No,Consumer Type,Health Awareness Level,Product Preferences,Mentions (Count),Trend,Comments
+1,Health Ignorers,Low,"Traditional Snacks, High Sugars",150,Increasing,Majority don't care about health aspects
+2,Health Seekers,Moderate,"Snacks with Reduced Sugar, Low-Calorie",130,Stable,Aware but focused on taste over health
+3,Health Avoiders,High,"Health-Conscious Options, Gluten-Free, Keto",200,Increasing,Actively avoiding snacks due to health risks
+4,Health Ignorers,Low,Regular Snacks with no health benefits,170,Stable,Not aware of the harmful effects of snacks
+5,Health Seekers,Moderate,"Low-Sodium, Low-Sugar, High-Protein",120,Decreasing,Interested in healthier alternatives
+6,Health Avoiders,High,"Organic, Whole Foods, Plant-Based Snacks",210,Stable,Actively shifting to organic products
+7,Health Ignorers,Low,Processed and Packaged Snacks,180,Increasing,A significant portion of consumers ignoring health
+8,Health Seekers,Moderate,"Low-Calorie Snacks, Reduced Fat",140,Increasing,Shift towards healthier snack choices
+9,Health Avoiders,High,"Keto Snacks, Dairy-Free, Vegan",230,Increasing,Strong health-conscious trend on social media
+10,Health Seekers,Moderate,"Protein-Rich Snacks, Reduced Sugar",110,Decreasing,Preference for 'better-for-you' snacks
+11,Health Ignorers,Low,"High-Calorie, Processed Snacks",190,Stable,No visible concern for health in snack choices
+12,Health Avoiders,High,"Gluten-Free, Non-GMO, Vegan",220,Increasing,Avoiding traditional snacks in favor of alternatives
+13,Health Seekers,Moderate,"Plant-Based, Low-Carb",160,Stable,Seeking better alternatives within existing choices
+14,Health Avoiders,High,"Organic, Whole Foods, Keto",240,Increasing,"Growing shift towards organic, non-processed snacks"
+15,Health Seekers,Moderate,"Snacks with Fiber, Omega-3",100,Decreasing,"Shift towards high-fiber, nutrient-dense options"
+16,Health Ignorers,Low,Regular Snacks with Artificial Flavors,170,Stable,Majority still consume snacks with little regard for health
+17,Health Seekers,Moderate,"High Protein, Low Sugar",130,Stable,Searching for options with fewer additives
+18,Health Avoiders,High,"No Sugar, No Additives",210,Increasing,Actively rejecting processed foods and snacks
+19,Health Seekers,Moderate,"Low-Sodium, Low-Glycemic",140,Stable,Health-conscious trends emerging
+20,Health Avoiders,High,"Sugar-Free, High-Fiber",220,Increasing,"Strong health-conscious group, moving towards plant-based foods"
+21,Health Seekers,Moderate,"Nutrient-Dense, Low-Sugar",150,Stable,Increasing awareness of health without sacrificing taste
+22,Health Avoiders,High,"Low-Carb, Non-GMO",210,Stable,Significant concern about ingredient sourcing
+23,Health Ignorers,Low,Regular Snacks with Additives,160,Decreasing,Declining awareness of processed food impact
+24,Health Seekers,Moderate,"Low-Calorie, No Trans Fat",120,Increasing,Move towards healthier options with fewer chemicals
+25,Health Avoiders,High,"Organic, Non-GMO",200,Stable,Organic consumption growing with health-conscious crowd
+26,Health Seekers,Moderate,"Low-Calorie, Non-Dairy",150,Stable,Demand for snacks with fewer allergens
+27,Health Avoiders,High,"Vegan, High-Protein",220,Increasing,Increasing adoption of plant-based and allergen-free options
+28,Health Seekers,Moderate,"High-Fiber, Gluten-Free",140,Stable,Health awareness moving towards better-for-you choices
+29,Health Avoiders,High,"Sugar-Free, Vegan",230,Increasing,"Actively avoiding sugary, processed snacks"
+30,Health Ignorers,Low,Sweetened Snacks,180,Increasing,Consumers not concerned with high sugar intake
+31,Health Seekers,Moderate,"Reduced Fat, Non-Sugar",110,Stable,Awareness rising for reduced sugar and fat in snacks
+32,Health Ignorers,Low,Traditional Snacks,170,Stable,No concern for health issues
+33,Health Seekers,Moderate,"Low-Glycemic, Protein Bars",140,Stable,Growing demand for healthy snacks on-the-go
+34,Health Avoiders,High,"Vegan, Gluten-Free",250,Increasing,"A marked rise in vegan, gluten-free food choices"
+35,Health Seekers,Moderate,"Low-Calorie, Sugar-Free",130,Stable,Moderately health-conscious seeking 'better-for-you' alternatives
+36,Health Avoiders,High,"Organic, Whole Foods",230,Increasing,Preferences moving towards organic snacks
+37,Health Ignorers,Low,"Sugary Snacks, Chips",190,Stable,"Ignoring health risks, continued preference for sugary snacks"
+38,Health Seekers,Moderate,"Reduced-Sugar Snacks, Low-Sodium",160,Increasing,Health-conscious consumer base expanding
+39,Health Avoiders,High,"Low-Sugar, High-Fiber",220,Increasing,A preference for snacks with fewer unhealthy ingredients
+40,Health Seekers,Moderate,"Gluten-Free, Organic",130,Stable,Rising interest in snacks with healthier ingredients
+41,Health Ignorers,Low,Packaged Snacks with Preservatives,180,Stable,Low awareness about preservatives
+42,Health Seekers,Moderate,"High Fiber, Low Calorie",140,Increasing,Growing interest in fiber-rich snacks
+43,Health Avoiders,High,"Sugar-Free, Plant-Based",210,Stable,Strong preference for plant-based snacks
+44,Health Ignorers,Low,High-Calorie Snacks,200,Increasing,No concern for calorie intake
+45,Health Seekers,Moderate,"Vegan, Low-Carb",130,Stable,Moderate trend toward vegan options
+46,Health Avoiders,High,"Gluten-Free, No Additives",220,Increasing,"Preference for additive-free, gluten-free snacks"
+47,Health Seekers,Moderate,"Protein-Rich, Low-Calorie",140,Decreasing,Slight decrease in interest in protein snacks
+48,Health Avoiders,High,"Dairy-Free, Low-Sugar",210,Increasing,A strong shift toward dairy-free and low-sugar options
+49,Health Ignorers,Low,Sugary and Processed Snacks,190,Stable,Consistent demand for unhealthy snack options
+50,Health Seekers,Moderate,"Low-Fat, High Protein",120,Stable,Steady demand for snacks with a balance of low fat and high protein

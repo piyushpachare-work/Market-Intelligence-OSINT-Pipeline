@@ -1,0 +1,31 @@
+Sr. No,Platform,Date,User Comment,Product Mentioned,Confusion Type,User Sentiment,Suggested Simplicity Request
+1,Flipkart,2024-03-18,"""Too many types of bhujia, hard to decide which one to get!""","Aloo Bhujia, Moong Dal",Variant Overlap,Neutral,One combo pack with a comparison chart
+2,Amazon,2024-04-02,"""I got confused between Soan Papdi and Soan Cake. Packaging is similar.""","Soan Papdi, Soan Cake",Product Naming,Slightly Negative,Different packaging colors per variant
+3,YouTube,2024-04-16,"""I ordered the wrong item. Didn’t know Classic Mix and Navratan Mix are different!""","Classic Mix, Navratan Mix",Similar Naming,Negative,Include comparison visuals online
+4,Zepto,2024-05-09,"""Can’t find the sugar-free sweets easily in the app.""",Sugar-Free Range,Navigation,Neutral,Add a sugar-free section filter
+5,Instagram,2024-05-19,"""So many packs of Kaju Katli. Regular, Premium, Festive—what’s the real difference?""",Kaju Katli,Over-categorization,Neutral,Add short comparison on label
+6,Blinkit,2024-06-03,"""I couldn’t differentiate between spicy and non-spicy packs quickly.""",Mixtures,Spiciness Clarity,Slightly Negative,Add clear spiciness level on packaging front
+7,Facebook,2024-06-15,"""So many similar gift boxes. Which one’s best for Diwali?""",Gift Packs,Occasion Suitability,Neutral,"Use tags like “Best for Diwali,” “Everyday Use”"
+8,Amazon,2024-06-25,"""Didn’t realize there were vegetarian and eggless versions of the same item.""",Bakery Line,Dietary Confusion,Negative,Bigger veg/eggless logo placement
+9,Twitter,2024-07-08,"""Every store has a different set of Haldiram items. No consistency.""",General,Assortment Inconsistency,Slightly Negative,Standardize core products in every store
+10,YouTube,2024-07-21,"""I gave up mid-order. Couldn’t figure out the differences between the namkeens.""",Namkeen Assortment,Overwhelm,Negative,Simplified top 5 list with flavors explained
+11,Swiggy Instamart,2024-08-02,"""Too many sweet options. Ended up not ordering.""",Sweet Boxes,Choice Paralysis,Negative,Top-seller badge or “Best Pick” highlight
+12,Reddit,2024-08-12,"""Can Haldiram just launch a trial box for namkeens? It's overwhelming.""",Mixed Namkeen,Product Range Overload,Suggestive,Trial sampler combo
+13,Instagram,2024-08-25,"""Wish they had fewer items but higher quality""",General,Product Bloat,Negative,Reduce low-selling variants
+14,Amazon,2024-09-04,"""No idea which is the original bhujia. So many look alike.""",Bhujia Variants,Naming Ambiguity,Slightly Negative,Rename legacy products as “Original”
+15,Facebook,2024-09-18,"""Too technical terms in ingredients list. Confusing!""",Healthy Range,Label Confusion,Slightly Negative,Simplify ingredient descriptions
+16,Flipkart,2024-10-06,"""Two items looked the same, but prices were different. Why?""",Mithai Boxes,Visual Similarity,Curious,Add a “What’s different” tag
+17,Twitter,2024-10-22,"""Each city has different packs. Why not a uniform set?""",All Products,Regional Variety,Suggestive,Show “Only in X City” clearly
+18,YouTube,2024-11-01,"""Soan Papdi alone has 5 types? Who knew?""",Soan Papdi,Variant Saturation,Slightly Frustrated,One classic + seasonal variant
+19,Blinkit,2024-11-19,"""The filters on app don’t help. Can’t find non-spicy options easily.""",Namkeen,Filter Limitations,Neutral,Add filter for “Non-Spicy”
+20,Zepto,2024-11-30,"""Too much going on in the app. I just wanted plain Kaju Katli.""",Sweets,Interface Overwhelm,Negative,Plain favorites tab
+21,Instagram,2024-12-12,"""Wish they’d just say: this one is for kids, this one for elders.""",Mithai Mix,Target Group Confusion,Neutral,"Audience label (Kids, Elderly, All Ages)"
+22,Amazon,2024-12-25,"""The same item has 3 sizes—confusing in bulk orders.""",Bulk Packs,Pack Confusion,Slightly Negative,One size with portion suggestion
+23,Reddit,2025-01-05,"""Can’t find Jain snacks easily.""",Jain-Friendly Items,Dietary Navigation,Suggestive,Jain tab on website
+24,Facebook,2025-01-18,"""Packaging all looks same from far—hard to tell""",Snacks,Visual Uniformity,Slightly Negative,Different color palette for each product type
+25,Twitter,2025-02-05,"""I just want a standard mix that’s always available.""",Mixed Namkeen,Product Variability,Suggestive,“Always Available” tag
+26,Amazon,2025-02-17,"""I ordered Haldiram rasgulla and there were 3 different packaging types for the same item!""",Rasgulla,Packaging Variation,Slightly Negative,Standardize rasgulla packaging
+27,YouTube,2025-02-21,"""Too many combo options. Don’t know which has what unless I open the product image.""",Combo Packs,Combo Complexity,Slightly Negative,Summary chart on first image
+28,Swiggy Instamart,2025-02-28,"""There’s a festival version, dry version, milk version of every sweet. Gets confusing!""",Mithai,Variant Saturation,Neutral,Consolidated filters by type
+29,Zepto,2025-03-07,"""Is there a low sugar version or not? Not clearly mentioned.""",Sweet Range,Missing Nutritional Clarity,Slightly Negative,Sugar % highlight on front label
+30,Facebook,2025-03-22,"""Love the brand but it’s like 8 types of dal namkeen? Please help!""",Dal-Based Namkeens,Over-choice,Positive (frustrated),Top-3 Dal Favorites badge

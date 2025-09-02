@@ -1,0 +1,103 @@
+KPI-4 ) Trend Strength (via Search Volume),,,,,
+DATA COLECTED FROM = GOOGLE TRENDS ,,,,,
+Sr. No.,Date,Category,Search Term,Relative Interest,Platform Link
+1,2020-05,Healthy Snacks,Healthy Snacks India,81,Link
+2,2020-06,Healthy Snacks,Healthy Snacks India,75,Link
+3,2020-07,Healthy Snacks,Healthy Snacks India,67,Link
+4,2020-08,Healthy Snacks,Healthy Snacks India,70,Link
+5,2020-09,Healthy Snacks,Healthy Snacks India,63,Link
+6,2020-10,Healthy Snacks,Healthy Snacks India,78,Link
+7,2020-11,Healthy Snacks,Healthy Snacks India,82,Link
+8,2020-12,Healthy Snacks,Healthy Snacks India,74,Link
+9,2021-01,Healthy Snacks,Healthy Snacks India,85,Link
+10,2021-02,Healthy Snacks,Healthy Snacks India,88,Link
+11,2021-03,Sustainable Packaging,Sustainable Packaging Food,62,Link
+12,2021-04,Sustainable Packaging,Sustainable Packaging Food,65,Link
+13,2021-05,Sustainable Packaging,Sustainable Packaging Food,68,Link
+14,2021-06,Sustainable Packaging,Sustainable Packaging Food,70,Link
+15,2021-07,Sustainable Packaging,Sustainable Packaging Food,64,Link
+16,2021-08,Sustainable Packaging,Sustainable Packaging Food,66,Link
+17,2021-09,Sustainable Packaging,Sustainable Packaging Food,72,Link
+18,2021-10,Sustainable Packaging,Sustainable Packaging Food,69,Link
+19,2021-11,Sustainable Packaging,Sustainable Packaging Food,73,Link
+20,2021-12,Sustainable Packaging,Sustainable Packaging Food,77,Link
+21,2022-01,Sustainable Packaging,Sustainable Packaging Food,63,Link
+22,2022-02,Sustainable Packaging,Sustainable Packaging Food,68,Link
+23,2022-03,Online Grocery Delivery,Online Grocery Delivery,82,Link
+24,2022-04,Online Grocery Delivery,Online Grocery Delivery,87,Link
+25,2022-05,Online Grocery Delivery,Online Grocery Delivery,90,Link
+26,2022-06,Online Grocery Delivery,Online Grocery Delivery,78,Link
+27,2022-07,Online Grocery Delivery,Online Grocery Delivery,86,Link
+28,2022-08,Online Grocery Delivery,Online Grocery Delivery,89,Link
+29,2022-09,Online Grocery Delivery,Online Grocery Delivery,83,Link
+30,2022-10,Online Grocery Delivery,Online Grocery Delivery,91,Link
+31,2022-11,Online Grocery Delivery,Online Grocery Delivery,85,
+32,2022-12,Online Grocery Delivery,Online Grocery Delivery,79,
+33,2023-01,Online Grocery Delivery,Online Grocery Delivery,88,
+34,2023-02,Online Grocery Delivery,Online Grocery Delivery,91,
+35,2023-03,Healthy Snacks,Healthy Snacks India,84,
+36,2023-04,Healthy Snacks,Healthy Snacks India,86,
+37,2023-05,Healthy Snacks,Healthy Snacks India,89,
+38,2023-06,Healthy Snacks,Healthy Snacks India,87,
+39,2023-07,Healthy Snacks,Healthy Snacks India,91,
+40,2023-08,Healthy Snacks,Healthy Snacks India,93,
+41,2023-09,Sustainable Packaging,Sustainable Packaging Food,75,
+42,2023-10,Sustainable Packaging,Sustainable Packaging Food,79,
+43,2023-11,Sustainable Packaging,Sustainable Packaging Food,82,
+44,2023-12,Sustainable Packaging,Sustainable Packaging Food,78,
+45,2024-01,Sustainable Packaging,Sustainable Packaging Food,85,
+46,2024-02,Sustainable Packaging,Sustainable Packaging Food,83,
+47,2024-03,Sustainable Packaging,Sustainable Packaging Food,88,
+48,2024-04,Sustainable Packaging,Sustainable Packaging Food,84,
+49,2024-05,Sustainable Packaging,Sustainable Packaging Food,90,
+50,2024-06,Sustainable Packaging,Sustainable Packaging Food,92,
+51,2024-07,Healthy Snacks,Healthy Snacks India,95,Link
+52,2024-08,Healthy Snacks,Healthy Snacks India,97,Link
+53,2024-09,Healthy Snacks,Healthy Snacks India,93,Link
+54,2024-10,Healthy Snacks,Healthy Snacks India,89,Link
+55,2024-11,Healthy Snacks,Healthy Snacks India,94,Link
+56,2024-12,Healthy Snacks,Healthy Snacks India,91,Link
+57,2025-01,Healthy Snacks,Healthy Snacks India,92,Link
+58,2025-02,Healthy Snacks,Healthy Snacks India,96,Link
+59,2025-03,Healthy Snacks,Healthy Snacks India,94,Link
+60,2025-04,Healthy Snacks,Healthy Snacks India,98,Link
+61,2024-07,Online Grocery Delivery,Online Grocery Delivery,88,Link
+62,2024-08,Online Grocery Delivery,Online Grocery Delivery,90,Link
+63,2024-09,Online Grocery Delivery,Online Grocery Delivery,92,Link
+64,2024-10,Online Grocery Delivery,Online Grocery Delivery,89,Link
+65,2024-11,Online Grocery Delivery,Online Grocery Delivery,91,Link
+66,2024-12,Online Grocery Delivery,Online Grocery Delivery,93,Link
+67,2025-01,Online Grocery Delivery,Online Grocery Delivery,94,Link
+68,2025-02,Online Grocery Delivery,Online Grocery Delivery,96,Link
+69,2025-03,Online Grocery Delivery,Online Grocery Delivery,95,Link
+70,2025-04,Online Grocery Delivery,Online Grocery Delivery,97,Link
+71,2025-05,Online Grocery Delivery,Online Grocery Delivery,99,Link
+72,2024-07,Sustainable Packaging,Sustainable Packaging Food,86,Link
+73,2024-08,Sustainable Packaging,Sustainable Packaging Food,88,Link
+74,2024-09,Sustainable Packaging,Sustainable Packaging Food,90,Link
+75,2024-10,Sustainable Packaging,Sustainable Packaging Food,93,Link
+76,2024-11,Sustainable Packaging,Sustainable Packaging Food,94,Link
+77,2024-12,Sustainable Packaging,Sustainable Packaging Food,91,Link
+78,2025-01,Sustainable Packaging,Sustainable Packaging Food,95,Link
+79,2025-02,Sustainable Packaging,Sustainable Packaging Food,96,Link
+80,2025-03,Sustainable Packaging,Sustainable Packaging Food,97,Link
+81,2025-04,Sustainable Packaging,Sustainable Packaging Food,98,Link
+82,2025-05,Sustainable Packaging,Sustainable Packaging Food,99,Link
+83,2024-07,Sustainable Packaging,Sustainable Packaging Food,86,Link
+84,2024-08,Sustainable Packaging,Sustainable Packaging Food,88,Link
+85,2024-09,Sustainable Packaging,Sustainable Packaging Food,90,Link
+86,2024-10,Sustainable Packaging,Sustainable Packaging Food,93,Link
+87,2024-11,Sustainable Packaging,Sustainable Packaging Food,94,Link
+88,2024-12,Sustainable Packaging,Sustainable Packaging Food,91,Link
+89,2025-01,Sustainable Packaging,Sustainable Packaging Food,95,Link
+90,2025-02,Sustainable Packaging,Sustainable Packaging Food,96,Link
+91,2025-03,Sustainable Packaging,Sustainable Packaging Food,97,Link
+92,2025-04,Sustainable Packaging,Sustainable Packaging Food,98,Link
+93,2025-05,Sustainable Packaging,Sustainable Packaging Food,99,Link
+94,2024-07,Online Grocery Delivery,Online Grocery Delivery,88,Link
+95,2024-08,Online Grocery Delivery,Online Grocery Delivery,90,Link
+96,2024-09,Online Grocery Delivery,Online Grocery Delivery,92,Link
+97,2024-10,Online Grocery Delivery,Online Grocery Delivery,89,Link
+98,2024-11,Online Grocery Delivery,Online Grocery Delivery,91,Link
+99,2024-12,Online Grocery Delivery,Online Grocery Delivery,93,Link
+100,2025-01,Online Grocery Delivery,Online Grocery Delivery,94,Link

@@ -1,0 +1,13 @@
+No.	Description	Analysis/Findings	Specific Examples/Observations	Source
+1	Explicit Gifting Mentions	Direct use of gifting terms in reviews/mentions.	"Happy Diwali Ho"	Amazon
+2	Implicit Gifting Mentions (Amazon)	Phrases implying gifting through positive context or shareability.	"Very good taste", "Good snacks for", "Tasty item worth"	Amazon
+3	Gifting Occasions (Amazon)	Specific occasions mentioned or inferred from Amazon reviews.	Diwali, Festive occasions	Amazon
+4	Sentiment towards Gifting (Amazon)	Sentiment in Amazon reviews related to gifting.	Positive (Strong): "Very good taste", "Tasty item worth"&lt;br>Positive (General): "Good snacks for"	Amazon
+5	Product Attributes for Gifting (Amazon)	Product features mentioned in Amazon reviews as relevant for gifting.	Positive: "Tasty", "Quality", "Fresh" (implied)	Amazon
+6	Product Categories for Gifting (Amazon)	Product types from Amazon reviews.	Namkeen, Sweets	Amazon
+7	Gifting Trends (Twitter - Limited)	General trends from Twitter analysis (with limitations).	Positive sentiment around Haldiram's products; potential for gifting discussions, especially during festivals. (Needs further data)	Twitter
+8	Gifting Occasions (Twitter - Inferred)	Occasions likely reflected in Twitter data (inferred).	Diverse occasions, including festivals, celebrations, and general sharing. (Needs further data)	Twitter
+9	Gifting on Instagram (Conceptual)	How gifting is typically represented.	Visually appealing presentations of food gifts; emphasis on aesthetics and curated gift boxes; influencer marketing showcasing gifting ideas; use of relevant hashtags (#giftideas, #foodgifts).	Instagram
+			Haldiram's products could be featured in visually creative gifting scenarios.	
+10	Gifting on YouTube (Conceptual)	How gifting is typically featured.	"Gift guide" videos featuring food items; product reviews with gifting suggestions; recipe videos showcasing edible gifts; unboxing videos of food gift hampers.	YouTube
+			 Haldiram's products could be included in such content, highlighting their suitability for gifting.	

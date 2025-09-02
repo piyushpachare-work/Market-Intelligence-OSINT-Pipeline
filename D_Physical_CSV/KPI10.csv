@@ -1,0 +1,20 @@
+KPI Category	KPI Sub-Category	Description
+1. Price Sensitivity (Amazon)	1.1 Value-Focused Price Sensitivity	Mentions where price is explicitly considered in relation to the product's perceived worth or value.
+	1.2 Cost-Concerned Price Sensitivity	Mentions indicating hesitation, concern, or negative sentiment related to the price of Haldiram's products.
+	1.3 Price Comparison Sensitivity	Mentions where customers compare Haldiram's prices to those of competing brands.
+2. Promotion/Discount Influence (Amazon)	2.1 Direct Promotion/Discount Mentions	Explicit mentions of terms like "discount," "sale," "offer," or "coupon" and their direct impact on purchase decisions.
+	2.2 Indirect Promotion/Discount Influence	Inferences about how promotions or discounts might indirectly influence purchase behavior, even without explicit mentions.
+3. Price Sentiment (Amazon)	3.1 Positive Price Sentiment	Mentions expressing positive feelings or satisfaction related to the price of Haldiram's products.
+	3.2 Neutral Price Sentiment	Mentions where price is treated as a neutral factor, without strong positive or negative feelings.
+	3.3 Negative Price Sentiment	Mentions expressing negative feelings or dissatisfaction related to the price of Haldiram's products.
+4. Price Discussions (Facebook)	4.1 General Price Discussions	General observations about the presence or absence of price-related discussions or content on Facebook.
+	4.2 Inferred Price Sensitivity	Inferences about price sensitivity among Facebook users, based on available data.
+5. Promotion Influence (Facebook)	5.1 Direct Promotion Influence	Explicit data on how Facebook promotions or discounts directly influence user behavior (e.g., purchase conversions, engagement with promotional posts).
+	5.2 Indirect Promotion Influence	Inferences about how promotions or discounts might indirectly influence Facebook users (e.g., brand awareness, product visibility).
+6. Price Discussions (Twitter)	6.1 General Price Discussions	General observations about the presence or absence of price-related content or discussions on Twitter.
+	6.2 Inferred Price Sensitivity	Inferences about price sensitivity among Twitter users, based on available data.
+7. Promotion Influence (Twitter)	7.1 Direct Promotion Influence	Explicit data on how Twitter promotions or discounts directly influence user behavior (e.g., retweets, likes, replies related to promotional tweets).
+	7.2 Indirect Promotion Influence	Inferences about how promotions or discounts might indirectly influence Twitter users (e.g., word-of-mouth, increased visibility).
+8. Overall Price/Promotion Dynamics	8.1 Amazon-Centric Summary	Synthesis of price and promotion influences, primarily focusing on the most detailed data source (Amazon).
+	8.2 Social Media Context Summary	Synthesis of price and promotion influences across Facebook and Twitter, acknowledging data limitations.
+	8.3 Future Research Recommendations	Suggestions for further research or data acquisition to enhance the analysis of price and promotion influences.

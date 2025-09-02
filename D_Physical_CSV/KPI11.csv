@@ -1,0 +1,49 @@
+Region	Sentiment	Key Theme	Example Phrases / Keywords
+India	Positive	Freshness & Taste	“Bhujia always fresh”, “Tasty snack for tea time”
+India	Mixed	Price Concerns	“Little costly now”, “Used to be cheaper”
+India	Positive	Festival Usage	“Best for Holi gifting”, “Always buy Soan Papdi on Diwali”
+India	Positive	Home Nostalgia	“Reminds me of home”, “Taste of childhood”
+India	Positive	Brand Trust	“Only trust Haldiram”, “Consistent quality”
+India	Mixed	Packaging Issues	“Pouch zip is weak”, “Resealable pack needed”
+India	Positive	Tea-time Snack	“Best with chai”, “Evening munchies sorted”
+India	Positive	Product Variety	“So many namkeens to try”, “Love their cookies too”
+India	Mixed	Oiliness/Health Concerns	“Too oily sometimes”, “Wish they had baked versions”
+India	Positive	Family Sharing	“Snack for the whole family”, “My kids love it too”
+India	Positive	Repeat Purchase	“Always in my grocery list”, “I’ve been buying this for years”
+India	Neutral	Delivery Feedback	“Took 2 days to arrive”, “Amazon delivery was fine”
+India	Positive	Local Store Availability	“Available in every shop”, “Easy to find nearby”
+India	Mixed	New Product Suggestions	“Make sugar-free Rasgulla”, “Add baked chips range”
+India	Positive	Wedding Gifting	“Sent laddoos to cousin’s wedding”, “Shaadi pack is perfect”
+India	Mixed	Portion Size	“Too small for the price”, “Good quantity”
+India	Positive	Social Media Engagement	“Loved their IPL meme”, “Cute Holi post!”
+India	Positive	Restaurant Experience	“Went to Nagpur outlet”, “Food is hygienic & delicious”
+USA	Positive	Indian Flavor Nostalgia	“Tastes like home”, “Feels like India in a pack”
+USA	Positive	Online Purchase Convenience	“Ordered from Amazon US”, “Easy to find on Indian stores online”
+USA	Mixed	Shipping Concerns	“Arrived late”, “Crushed package”
+USA	Positive	Festival Sentiment	“Perfect for Diwali gifts”, “Shared with coworkers for Holi”
+USA	Positive	Gifting Culture	“Sent to parents”, “My US friends loved it too”
+USA	Positive	Repeat Purchase	“Buy every few months”, “Always in pantry”
+USA	Positive	Family Memories	“Shared with my kids”, “Sunday snack at home”
+USA	Neutral	Availability in Local Stores	“Hard to find in Walmart”, “Wish it was in Costco”
+USA	Positive	Indian Community Endorsement	“Recommended in NRI group”, “My temple friends love it”
+UK	Positive	Premium Perception	“Packaging looks classy”, “Feels like gourmet”
+UK	Positive	Gifting for Festivals	“Packed for Diwali hampers”, “Loved by my British colleagues”
+UK	Positive	Brand Loyalty	“Always pick Haldiram over others”, “Top Indian brand”
+UK	Neutral	Taste Adjustment	“Less spicy than expected”, “Sweet is too mild”
+UK	Positive	Cultural Inclusion	“Perfect for multicultural potluck”, “British friends liked it”
+UK	Positive	High Acceptance Among Locals	“Even my neighbors enjoy it”, “Office snack”
+UK	Neutral	Store Availability	“Not in every Tesco”, “Wish it was in Sainsbury's”
+Canada	Mixed	Availability in Suburban Areas	“Not available in small towns”, “Only in Toronto stores”
+Canada	Positive	Online Accessibility	“Easy to order on Amazon Canada”, “Free delivery option”
+Canada	Positive	Seasonal/Festival Gifting	“Gave it during Baisakhi”, “Makes a great Diwali treat”
+Canada	Positive	Family-friendly Products	“My kids love the sweets”, “Snack for the whole house”
+Canada	Neutral	Packaging Feedback	“Box was bent”, “Outer cover was damaged”
+Canada	Positive	Cultural Events / Indian Stores	“Bought from Indian grocery store”, “Good for Holi gathering”
+UAE	Very Positive	Strong Indian Diaspora Connection	“Every family uses it here”, “Always on our Diwali table”
+UAE	Positive	Premium & Fresh Quality	“Always fresh in Dubai outlets”, “Better than in India sometimes”
+UAE	Positive	Gifting & Hospitality	“Used in corporate gifting”, “Guests ask for Haldiram”
+UAE	Very Positive	Restaurant Experience	“Went to their Bur Dubai outlet”, “Loved the thali”
+UAE	Positive	Social Influence	“Popular on Insta”, “Influencers promote it a lot here”
+UAE	Positive	Accessibility in Local Malls	“Easily available in Lulu and Carrefour”, “Found it in every store”
+UAE	Positive	Premium Brand Image	“Luxury feel”, “Reliable packaging”
+UAE	Positive	Repeat Purchase / Bulk Buying	“Buy family packs often”, “Use for guests”

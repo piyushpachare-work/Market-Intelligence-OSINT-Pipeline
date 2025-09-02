@@ -1,0 +1,51 @@
+Sr. No.,Date/Month,Platform,Mentions/Comments,Type of Mention,Positive Sentiment %,Negative Sentiment %,Experience Mentioned,Associated Issues Mentioned,Sentiment Summary,Frequency of Mentions,User Type (First-time/Repeat)
+1,01-03-2024,Instagram,"""Got a Haldiram voucher as a gift, can't wait to use it!""",Positive,0.95,0.05,Yes,,"Positive experience, excited for redemption",High,Repeat
+2,01-03-2024,Twitter,"""Redeemed my Haldiram voucher for snacks, smooth process.""",Positive,0.9,0.1,Yes,,"Positive, quick redemption",Medium,Repeat
+3,01-03-2024,Facebook,"""Haldiram gift card didnt work, disappointed!""",Negative,0.05,0.95,No,"Payment failure, broken link","Negative, frustration with voucher redemption",Low,First-time
+4,01-04-2024,Reddit,"""Haldiram vouchers are a great gift for my family!""",Positive,0.98,0.02,Yes,,"Positive, great for gifting",High,Repeat
+5,01-04-2024,Haldiram Website,"""Tried using my Haldiram voucher, but it’s expired.""",Negative,0.05,0.95,No,Expiry issue,"Negative, expired voucher disappointment",Low,First-time
+6,01-05-2024,Twitter,"""Received a Haldiram voucher for my birthday, already spent it!""",Positive,0.97,0.03,Yes,,"Positive, easy to use",High,Repeat
+7,01-06-2024,Instagram,"""Gift card is good, but wish they offered more options.""",Neutral,0.6,0.4,Yes,Limited redemption options,"Neutral, desire for more variety in usage",Medium,Repeat
+8,01-06-2024,Facebook,"""Haldiram voucher is a good idea, but I had trouble redeeming online.""",Negative,0.1,0.9,No,"Redemption issue, poor UI","Negative, frustration with site usability",Low,First-time
+9,01-07-2024,Zomato,"""Got a Haldiram voucher for my meal, great way to pay!""",Positive,0.93,0.07,Yes,,"Positive, good payment option",High,Repeat
+10,01-08-2024,Twitter,"""Gift card didn’t have enough balance to cover the meal!""",Negative,0.3,0.7,No,Insufficient balance,"Negative, issues with balance",Medium,First-time
+11,01-09-2024,Reddit,"""Received a voucher as part of a contest, used it for snacks, easy!""",Positive,0.98,0.02,Yes,,"Positive, easy transaction",High,Repeat
+12,01-10-2024,Facebook,"""I couldn’t use my Haldiram gift card during checkout.""",Negative,0.05,0.95,No,Checkout issue,"Negative, issue with checkout processing",Low,First-time
+13,01-11-2024,Instagram,"""Love the idea of Haldiram gift cards, perfect for festivals.""",Positive,0.95,0.05,Yes,,"Positive, great gifting option",High,Repeat
+14,01-12-2024,Twitter,"""I got a Haldiram voucher, but there are no stores near me.""",Negative,0.1,0.9,No,Availability issue,"Negative, voucher usability hindered by location",Low,First-time
+15,01-12-2024,Haldiram Website,"""Haldiram gift cards are perfect for gifting during the holidays.""",Positive,0.99,0.01,Yes,,"Positive, popular gift choice",High,Repeat
+16,01-01-2025,Instagram,"""Couldn’t use my voucher online, disappointed.""",Negative,0.2,0.8,No,Online usability issue,"Negative, frustration with redemption process",Medium,First-time
+17,01-01-2025,Twitter,"""Haldiram gift card made the perfect gift for my wedding!""",Positive,0.98,0.02,Yes,,"Positive, great for special occasions",High,Repeat
+18,01-02-2025,Facebook,"""I had no issue using my voucher, loved the ease of payment!""",Positive,0.95,0.05,Yes,,"Positive, easy experience with no issues",High,Repeat
+19,01-02-2025,Reddit,"""Used my gift card for a party and loved it, fast and smooth!""",Positive,0.97,0.03,Yes,,"Positive, quick and smooth experience",High,Repeat
+20,01-03-2025,Haldiram Website,"""Gift card purchase was easy but wish there were more outlets.""",Neutral,0.5,0.5,Yes,Limited outlet options,"Neutral, would like more physical locations",Medium,Repeat
+21,01-03-2025,Instagram,"""Haldiram vouchers make gift shopping easier. Great idea!""",Positive,0.95,0.05,Yes,,"Positive, good gifting option",High,Repeat
+22,01-03-2025,Twitter,"""Received a Haldiram voucher, but there’s no good way to redeem it online.""",Negative,0.15,0.85,No,Redemption issue,"Negative, dissatisfaction with redemption process",Low,First-time
+23,01-03-2025,Facebook,"""Had a great time using my Haldiram gift card for Diwali snacks!""",Positive,0.98,0.02,Yes,,"Positive, happy with the festive experience",High,Repeat
+24,01-04-2025,Instagram,"""Voucher was expired when I tried to use it at the store.""",Negative,0.1,0.9,No,Expiry issue,"Negative, frustration with expiry",Medium,First-time
+25,01-04-2025,Reddit,"""Haldiram’s gift cards are perfect for weddings!""",Positive,0.95,0.05,Yes,,"Positive, popular gifting choice",High,Repeat
+26,01-04-2025,Haldiram Website,"""I purchased a Haldiram gift card for my father, and he loved it!""",Positive,0.97,0.03,Yes,,"Positive, good for family gifts",High,Repeat
+27,01-05-2025,Facebook,"""Gift card redemption was a hassle, could not use it online.""",Negative,0.05,0.95,No,Redemption issue,"Negative, disappointed with the process",Low,First-time
+28,01-05-2025,Twitter,"""I received a Haldiram voucher for my birthday, and it was so easy to redeem!""",Positive,0.98,0.02,Yes,,"Positive, smooth redemption experience",High,Repeat
+29,01-06-2025,Instagram,"""Received a Haldiram gift card, but some items were not available in the store.""",Negative,0.2,0.8,No,Availability issue,"Negative, disappointment with store stock",Medium,First-time
+30,01-06-2025,Reddit,"""Love the Haldiram gift cards, but the online process could use improvement.""",Neutral,0.6,0.4,Yes,UI issues,"Neutral, ease of process could be improved",Medium,Repeat
+31,01-06-2025,Haldiram Website,"""Haldiram’s gift cards make the perfect wedding favors!""",Positive,1,0,Yes,,"Positive, great for events",High,Repeat
+32,01-07-2025,Instagram,"""The gift card I purchased didn’t have enough balance to cover my entire bill.""",Negative,0.1,0.9,No,Insufficient balance,"Negative, dissatisfaction with balance",Low,First-time
+33,01-07-2025,Facebook,"""Redeemed my Haldiram gift card for a delicious snack. It was easy to use.""",Positive,0.95,0.05,Yes,,"Positive, easy to use and redeem",High,Repeat
+34,01-08-2025,Twitter,"""I gave Haldiram gift cards as presents. Such a unique idea!""",Positive,0.98,0.02,Yes,,"Positive, good gifting option",High,Repeat
+35,01-08-2025,Reddit,"""Haldiram voucher didn’t work at checkout.""",Negative,0.05,0.95,No,Checkout issue,"Negative, frustration with checkout process",Low,First-time
+36,01-09-2025,Instagram,"""Got a Haldiram gift card as a gift, but it’s not accepted at my local outlet.""",Negative,0.15,0.85,No,Location issue,"Negative, frustration with outlet availability",Low,First-time
+37,01-09-2025,Facebook,"""Haldiram’s gift cards are the best gift! My family loved them.""",Positive,1,0,Yes,,"Positive, popular gift choice",High,Repeat
+38,01-10-2025,Twitter,"""Tried using my Haldiram voucher, but it was invalid.""",Negative,0.05,0.95,No,Invalid voucher,"Negative, issue with voucher validity",Low,First-time
+39,01-10-2025,Haldiram Website,"""I love Haldiram’s gift cards. They always have a great variety of products to choose from.""",Positive,0.98,0.02,Yes,,"Positive, great variety of choices",High,Repeat
+40,01-11-2025,Instagram,"""The Haldiram voucher was perfect for our family reunion. We all enjoyed the snacks.""",Positive,0.95,0.05,Yes,,"Positive, great for family gatherings",High,Repeat
+41,01-11-2025,Twitter,"""I used my Haldiram voucher, and the process was very easy!""",Positive,0.97,0.03,Yes,,"Positive, seamless redemption",High,Repeat
+42,01-12-2025,Facebook,"""Bought a Haldiram gift card for my friends, they were so happy with it!""",Positive,0.99,0.01,Yes,,"Positive, perfect for gifting",High,Repeat
+43,01-12-2025,Haldiram Website,"""I had some trouble using my gift card online, but customer service helped me.""",Neutral,0.6,0.4,No,Customer service issue,"Neutral, resolved by customer support",Medium,First-time
+44,01-01-2026,Instagram,"""Love the concept of Haldiram gift cards, but wish they were available more widely.""",Neutral,0.5,0.5,Yes,Limited availability,"Neutral, desire for wider acceptance",Medium,Repeat
+45,01-01-2026,Reddit,"""I used my Haldiram voucher at a local outlet, and it worked fine.""",Positive,0.98,0.02,Yes,,"Positive, smooth experience",High,Repeat
+46,01-02-2026,Haldiram Website,"""The gift card I purchased was a bit tricky to redeem on the website.""",Negative,0.2,0.8,No,Website usability,"Negative, frustration with website interface",Low,First-time
+47,01-02-2026,Twitter,"""Haldiram vouchers make it so easy to treat my family!""",Positive,0.95,0.05,Yes,,"Positive, family-oriented gifting",High,Repeat
+48,01-03-2026,Facebook,"""Used my Haldiram gift card but wish it worked for online purchases.""",Negative,0.3,0.7,No,Limited online use,"Negative, desire for wider online acceptance",Medium,First-time
+49,01-03-2026,Reddit,"""Got a Haldiram voucher as a gift. Very convenient for my snacks!""",Positive,0.97,0.03,Yes,,"Positive, good for convenience",High,Repeat
+50,01-04-2026,Instagram,"""Used my Haldiram gift card, but some items were out of stock.""",Negative,0.15,0.85,No,Stock availability,"Negative, disappointed with stock shortages",Low,First-time

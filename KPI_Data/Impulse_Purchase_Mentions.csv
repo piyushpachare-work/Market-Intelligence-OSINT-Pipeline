@@ -1,0 +1,51 @@
+Sr. No.,Platform,Trigger Phrase / Cue,Product Category,User Action,Impulse Indicator Strength,Outcome Summary
+1,Blinkit,"""Wasn't planning to order but saw it in 'trending'""",Snacks,Ordered chips & cookies,High,Spontaneous Q-commerce order
+2,Flipkart,"""It was in 'People also bought'""",Earphones,Added to cart without prior intent,Medium,Upsell led to quick purchase
+3,Instagram,"""Saw this reel & ordered instantly""",Packaged Sweets,Clicked link and bought,High,Influencer impact triggered impulse
+4,Zepto,"""Late night craving, just ordered""",Ice cream,Bought around midnight,High,Emotionally driven late-hour buy
+5,Amazon,"""Saw this under ₹99 section""",Kitchen tool,Added to cart instantly,Medium,Budget-based impulsive buy
+6,YouTube,"""Saw this in a snack haul video""",Namkeen,Ordered same pack,High,Social influence impulse
+7,Flipkart,"""Saw combo deal, couldn't resist""",Tea + Biscuits,Bought combo instead of single item,Medium,Offer led to add-on purchase
+8,D-Mart,"""Saw it near checkout counter""",Chocolate bar,Picked up 2 extra bars,High,Classic checkout-triggered impulse
+9,Amazon,"""Lightning deal alert popped up""",Kitchen storage jars,Ordered 4-set,High,Scarcity triggered impulse
+10,Blinkit,"""Just needed bread, ended up with 5 items""",Mixed,Unplanned additions,High,Over-ordering due to app layout
+11,Zepto,"""Saw mangoes on homepage – couldn’t resist""",Fruits,Bought 3 kg,Medium,Visual temptation
+12,Twitter,"""I don’t even need this, but it’s 70% off""",Gift Item,Purchased immediately,High,Offer override logic
+13,Instamart,"""Was only checking prices, ended up ordering""",Ready-to-eat food,Completed checkout,High,Browsing to buying shift
+14,Blinkit,"""Bored so I ordered random snacks""",Snacks,Picked 6 new items,High,Emotional boredom-based impulse
+15,Flipkart,"""Flash sale made me do it""",Gadgets,Bought portable speaker,High,Urgency-evoked impulse
+16,Instagram,"""Too aesthetic to ignore""",Packaged food gift box,Ordered right away,Medium,Packaging-led impulse
+17,Amazon,"""Buy 2 Get 1 Free""",Namkeen packs,Added all to cart,Medium,Offer stacking impulse
+18,Reddit,"""Tried this on a whim""",Snack Combo,Bought combo after reading post,Medium,Community influence
+19,YouTube,"""Late-night scroll turned into an order""",Beverages,Bought iced coffee bottle set,High,Scroll-induced spontaneous buy
+20,Zepto,"""Mini pack caught my eye""",Dessert,Bought cake slices,Medium,Size/portion influence
+21,D-Mart,"""Saw my fav item at 50% off""",Instant Mixes,Picked 3 packets,High,Discount love
+22,Flipkart,"""Just wanted to check reviews, ended up buying""",Health bar,Bought box,Medium,Review-led impulse
+23,Blinkit,"""Didn't know I needed it until I saw it""",Seasoning,Bought peri peri powder,Medium,Discovery-triggered buy
+24,Twitter,"""Impulse got the best of me again""",Spices,Admitted unplanned buy,High,Self-aware impulse
+25,Instagram,"""This looked like a cute gift idea""",Food-themed gifts,Ordered 2 gift boxes,Medium,Gifting impulse
+26,Amazon,"""Limited time bundle""",Cookies + Tea,Ordered quickly,High,Fear of missing out
+27,Zepto,"""Craving hit hard when I saw image""",Fried snacks,Bought bhujia and papdi,High,Visual craving-led impulse
+28,Reddit,"""Everyone's trying this, so I did too""",Frozen food,Gave in to trend,Medium,Peer trend impulse
+29,YouTube,"""Don’t ask me why I bought this lol""",Soda,Shared review after impulsive buy,High,Humor-driven impulse
+30,Blinkit,"""Just felt like snacking""",Chips,Bought 4 flavors,Medium,Mood-based buying
+31,D-Mart,"""Checkout queue temptation""",Wafers,Picked 2 for no reason,High,Physical queue trigger
+32,Flipkart,"""Saw it under 'Just Launched'""",Instant meals,Added to cart instantly,Medium,Newness factor
+33,Instagram,"""This was trending last week""",Packaged mithai,Ordered after seeing 3rd reel,High,Recurring trend impulse
+34,Amazon,"""Looked too good to skip""",Sweet box,Ordered Diwali-style mithai,High,Visual aesthetics
+35,Twitter,"""Don't judge me, I bought 3 snack boxes""",Mixed snacks,Shared haul image,High,Humor & peer sharing
+36,Instamart,"""Rainy weather = bhujia and tea""",Namkeen,Bought instinctively,Medium,Weather-triggered emotion
+37,Zepto,"""Didn't even blink before buying this""",Soft drinks,One-click checkout,High,Snap decision impulse
+38,Amazon,"""Only ₹40 more for combo""",Spices & condiments,Chose combo over single,Medium,Price optimization led impulse
+39,YouTube,"""This is my 3rd time buying after watching a vlog""",Ready meals,Repeated impulse buys,High,Habitual impulsive behavior
+40,Blinkit,"""Ordered while watching movie""",Nachos & dips,Added to cart mid-movie,Medium,Leisure-led decision
+41,Flipkart,"""Free delivery above ₹299, so I added extra item""",Snacks,Added new chocolate bar,Medium,Free delivery threshold hack
+42,Reddit,"""Impulse buy of the week: haldiram’s gulab jamun""",Sweets,Posted pic post purchase,High,Weekly ritual impulse
+43,Zepto,"""Felt nostalgic, had to get it""",Traditional snacks,"Bought mathri, khakhra",High,Emotion-driven choice
+44,Instagram,"""Colorful pack pulled me in""",Candy,Bought via link in bio,Medium,Visual color as trigger
+45,Amazon,"""Gave in. Again.""",Namkeen,Repeat order of same impulse product,High,Low resistance buying
+46,Blinkit,"""Added for fun, no regrets""",Beverages,Ordered new soda flavor,Medium,Joy-buy impulse
+47,D-Mart,"""Didn’t know I was craving until I saw it""",Ladoo,Picked box in store,Medium,Hidden craving impulse
+48,Flipkart,"""Saw influencer post, clicked link""",Baked snacks,Ordered directly,High,Influencer-to-cart pipeline
+49,Instagram,"""Ate this at friend’s house, ordered same""",Ready-to-eat curry,Bought next day,Medium,Taste memory-based impulse
+50,Reddit,"""Impulse buy. But 10/10 would do again""",Jalebi,Shared image with review,High,Happy impulse confirmation

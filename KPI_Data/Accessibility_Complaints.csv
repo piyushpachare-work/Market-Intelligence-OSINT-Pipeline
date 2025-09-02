@@ -1,0 +1,51 @@
+SR.NO,Platform,Complaint Type,Frequency,Region/Store Mentioned,Issue Description,Sentiment ,Time of Occurrence,Resolution Status,Customer Demographic (if available)
+1,Facebook,Out of Stock,High,"Delhi, Mumbai","""Couldn't find it in my local store.""",Negative,2024-03-01,Unresolved,"Urban, Middle-aged"
+2,Instagram,Limited Availability,Medium,Pune,"""Only available online, no stores nearby.""",Negative,2024-04-01,Unresolved,"Young Adult, City-dweller"
+3,Amazon,Delivery Delays,High,Nationwide,"""Haldiram products delayed in shipping.""",Negative,2024-03-01,Unresolved,All Demographics
+4,Twitter,Stock Shortage,High,Bengaluru,"""Sold out everywhere in my area.""",Negative,2024-05-01,Unresolved,"Middle-aged, Working Professional"
+5,Flipkart,Online-Only Availability,Low,Kolkata,"""Only available online, no offline stores.""",Negative,2024-06-01,Unresolved,"Tech-Savvy, Younger Demographic"
+6,Facebook,No Delivery Service,High,Tier 2 Cities,"""Cannot get it delivered to my city.""",Negative,2024-04-01,Unresolved,"Urban, Families"
+7,Twitter,Not Available in Local Stores,Medium,Chennai,"""My local store doesn't carry Haldiram.""",Negative,2024-05-01,Unresolved,"Young Adult, City-dweller"
+8,Instagram,Availability Issues,Medium,"Mumbai, Pune","""I can't find the product near me.""",Negative,2024-06-01,Unresolved,Millennials
+9,Reddit,Inconsistent Stock,Low,Hyderabad,"""Some stores are always out of stock.""",Negative,2024-05-01,Unresolved,"Tech-Savvy, Urban"
+10,Facebook,Poor Stock at Malls,Medium,"Delhi, Bangalore","""Big malls don’t carry all Haldiram varieties.""",Negative,2024-04-01,Unresolved,"Middle-aged, Working Professional"
+11,Twitter,Not in Nearby Stores,Low,Tier 2 Cities,"""I had to go to a faraway city to find it.""",Negative,2024-05-01,Unresolved,Older Adults
+12,Instagram,Limited Store Locations,Medium,Smaller Towns,"""Only available in large cities.""",Negative,2024-06-01,Unresolved,"Families, Suburban Areas"
+13,Amazon,Limited Region Coverage,High,Rural Areas,"""Haldiram isn't available in my region.""",Negative,2024-06-01,Unresolved,Rural Demographic
+14,Flipkart,No Delivery Options,Medium,Tier 2 Cities,"""Can't even find delivery in my region.""",Negative,2024-05-01,Unresolved,"Young Adults, Urban"
+15,Reddit,Inconsistent Product Availability,Low,Pune,"""No consistency in store availability.""",Negative,2024-06-01,Unresolved,College Students
+16,Facebook,Limited Offline Availability,High,"Delhi, Mumbai","""Can't find Haldiram in offline stores.""",Negative,2024-04-01,Unresolved,"Urban, Working Professionals"
+17,Twitter,No Stock in Grocery Stores,Medium,"Delhi, Kolkata","""My local grocery store doesn’t carry it.""",Negative,2024-05-01,Unresolved,"Middle-aged, Suburban"
+18,Instagram,Delivery Service Issues,Medium,All Locations,"""Delivery issues, can’t get Haldiram at home.""",Negative,2024-06-01,Unresolved,Urban Families
+19,Facebook,Can't Find Specific Products,Medium,Pan India,"""Haldiram product varieties not available in local markets.""",Negative,2024-04-01,Unresolved,All Demographics
+20,Twitter,Poor Stock in Retail Chains,Medium,"Mumbai, Delhi","""Haldiram products not available at big retail chains.""",Negative,2024-03-01,Unresolved,"Urban, Working Adults"
+21,Amazon,Not in Nearby Stores,Low,Rural India,"""Haldiram products are not stocked at local stores.""",Negative,2024-05-01,Unresolved,Older Adults
+22,Flipkart,Store Stocking Delays,High,Delhi,"""Store shelves are empty for weeks.""",Negative,2024-03-01,Unresolved,Urban Adults
+23,Instagram,Online Availability Only,Medium,Bangalore,"""Online exclusive for Bangalore.""",Negative,2024-06-01,Unresolved,Tech-Savvy Youth
+24,Reddit,Cannot Find in Local Markets,High,Tier 3 Cities,"""Struggling to find Haldiram in my small town.""",Negative,2024-04-01,Unresolved,Small Towns
+25,Facebook,Limited Retail Chains Carrying Product,Low,"Delhi, Mumbai","""Not available at every retail chain.""",Negative,2024-05-01,Unresolved,Urban Professionals
+26,Twitter,Issues with Local Delivery,High,"Pune, Kolkata","""Delivery only available in certain cities.""",Negative,2024-05-01,Unresolved,Younger Adults
+27,Instagram,Not Available in My Region,Medium,Rural Areas,"""Not available in my area.""",Negative,2024-04-01,Unresolved,Rural Consumers
+28,Facebook,No Stock at Supermarkets,High,National Coverage,"""Supermarkets don’t stock Haldiram products.""",Negative,2024-05-01,Unresolved,All Demographics
+29,Twitter,Out of Stock at Local Retailers,Low,Tier 2 Cities,"""Can't find Haldiram products anywhere.""",Negative,2024-03-01,Unresolved,All Demographics
+30,Flipkart,Not Available in Local Markets,Low,Chennai,"""Only available online, not offline.""",Negative,2024-04-01,Unresolved,Young Professionals
+31,Reddit,Difficulty Finding in Rural Areas,Medium,Rural Areas,"""Only available in urban centers.""",Negative,2024-05-01,Unresolved,Rural Areas
+32,Facebook,Delivery Time Delays,Medium,All Regions,"""Delivery times too long, can’t find Haldiram.""",Negative,2024-03-01,Unresolved,"Middle-aged, Family-focused"
+33,Twitter,Stock Availability Issues,Low,Nationwide,"""Some stores are always out of stock.""",Negative,2024-05-01,Unresolved,Younger Adults
+34,Instagram,No Delivery in Remote Areas,Medium,Remote Locations,"""I’m in a remote area, no delivery option.""",Negative,2024-06-01,Unresolved,Rural and Suburban Demographics
+35,Facebook,Lack of Availability in Local Stores,High,Nationwide,"""Can't find Haldiram products anywhere nearby.""",Negative,2024-04-01,Unresolved,"Families, Suburban Areas"
+36,Twitter,Poor Availability in Local Retail Chains,Medium,National Coverage,"""Haldiram isn’t carried by most local stores.""",Negative,2024-05-01,Unresolved,Urban Consumers
+37,Reddit,Delivery Limited to Cities,Low,Tier 1 Cities,"""Only delivered to metro cities, not rural.""",Negative,2024-04-01,Unresolved,"Urban, Younger Demographic"
+38,Facebook,Unable to Find Near Me,High,"Pune, Delhi","""Can't find it near me, even in big malls.""",Negative,2024-05-01,Unresolved,"Professionals, Working Adults"
+39,Instagram,Stocking Issues in Local Stores,Medium,"Bangalore, Mumbai","""Haldiram stock always running out.""",Negative,2024-04-01,Unresolved,All Demographics
+40,Twitter,Delivery Service Challenges,Medium,All Locations,"""Long delivery time and poor stock.""",Negative,2024-03-01,Unresolved,"Families, All Ages"
+41,Facebook,Delivery Not Available to Small Towns,Medium,Small Towns,"""Haldiram doesn’t deliver to smaller towns.""",Negative,2024-04-01,Unresolved,Small Town Residents
+42,Instagram,Problems with Delivery Delays,Medium,National Coverage,"""Delivery service delayed in multiple areas.""",Negative,2024-05-01,Unresolved,All Demographics
+43,Reddit,Not Available in Local Areas,Low,Smaller Towns,"""Unable to find anywhere near me.""",Negative,2024-06-01,Unresolved,Rural Areas
+44,Twitter,Out of Stock in Online Store,Medium,Nationwide,"""Always out of stock on online stores.""",Negative,2024-05-01,Unresolved,Urban and Tech-savvy
+45,Instagram,Can’t Find at Nearby Stores,High,Tier 2 Cities,"""My nearest store doesn’t stock Haldiram.""",Negative,2024-03-01,Unresolved,Working Professionals
+46,Facebook,Poor Availability in Grocery Stores,Medium,National Coverage,"""Can't find Haldiram products in grocery stores.""",Negative,2024-04-01,Unresolved,"Families, Suburban Areas"
+47,Twitter,Delivery Not Available in My Area,Medium,Nationwide,"""Delivery is not available in my region.""",Negative,2024-06-01,Unresolved,Young Adults
+48,Instagram,Availability Issues in Small Towns,Medium,Rural Areas,"""Only available in larger cities.""",Negative,2024-04-01,Unresolved,Small Town Residents
+49,Reddit,No Stock in Nearby Retailers,Medium,Rural Areas,"""No stock of Haldiram in small towns.""",Negative,2024-05-01,Unresolved,Rural Areas
+50,Facebook,Delivery Problems,Low,All Regions,"""Struggling to get Haldiram delivered on time.""",Negative,2024-03-01,Unresolved,Urban Families

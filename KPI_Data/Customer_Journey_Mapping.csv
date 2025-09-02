@@ -1,0 +1,22 @@
+Stage,Traffic/Channel,Customer Intent/Trigger,Observed Behavior or Quote,Context/Source,Sentiment,Opportunity / Problem Area
+Awareness,Organic Search (64.26%),Searching snacks/sweets brands,“Top Indian snacks brands” (search),KPI 71,Neutral,Invest in SEO; highlight uniqueness of Haldiram on landing page
+Awareness,Social (2.45%),Brand exposure via user shares/posts,“Highly recommended.”,Social Media Review (2),Positive,Leverage UGC and influencer advocacy
+Consideration,Direct (28.86%),Returning visitor/typed site directly,"“Compared to Bikanervala, 20% more customers prefer Haldiram”",Review (6),Neutral,"Emphasize differentiators: speed, hygiene"
+Consideration,Referral (3.15%),Influenced by blogs or food reviews,“62% find Bikanervala outlets cleaner than Haldiram”,Review (6),Negative,Hygiene-focused messaging needed
+Purchase Decision,Organic Search,Searching festive gifts/snack packs,“First choice for Diwali gift boxes”,Review (3),Positive,Promote festive bundles online
+Purchase Decision,Direct,Brand recall leads to direct visit,“First choice for NRIs craving Indian snacks”,Review (5),Positive,Add ‘NRI specials’ or shipping info prominently
+Purchase Decision,Social,Peer influence for gifting/celebration snacks,“Always stock Haldiram’s for unexpected guests”,Review (4),Positive,"Build FOMO ads, show ‘social usage’ like parties"
+Consumption/Experience,N/A (In-store event),Snack consumption during travel/work,“Family stopped for breakfast during road trip”,Review (12),Positive,Position as a trusted stop for travel/tourism
+Consumption/Experience,,Used in daily lunch/snack routine,“Preferred brand for children's tiffin snacks”,Review (9),Positive,Push “everyday snacks” in email/Social
+Post-Purchase,Organic / Direct,Searching for help/complaints,"“No AC on a hot day, staff not bothered. Raj Kachori tasted sour.”",Review (3),Negative,Immediate quality/infrastructure escalation
+Post-Purchase,Mail / Social,Feedback or public complaints,“Ordered noodles - found worm in food”,Review (212),Negative,Crisis management & response protocol needed
+Post-Purchase,Organic Search,Trying to reach customer support,“No one is picking up the phone. Erratic reply to emails.”,Review (1),Negative,Add visible customer support channels online
+Post-Purchase,Referral / Social,Leave public reviews based on experience,"“Delicious products, like from childhood... but now bad products”",Review (8),Negative,Track inconsistency across outlets
+Consideration,Organic,Evaluating by price comparison,“57% say better value than Bikanervala”,Review (6),Positive,Use value-based messaging for mid-tier buyers
+Consideration,Organic / Referral,Looking for certifications,“ISO 9001 & HACCP certification mentioned”,Review (13),Positive,"Highlight certifications in footer, about, and ads"
+Awareness,Mail (1.28%),Newsletter promo exposure,"“Survey: Brand reputation, recommendations, ads influence buying.”",Review (4),Neutral,"Optimize campaigns by showcasing heritage, trust"
+Consideration,Referral,Comparison to local/street vendors,“Roadside pani puri better than Haldiram's”,Review (2),Negative,Improve local snack category quality
+Purchase Decision,Organic Search,Looking for health-conscious snack alternatives,“Primary choice for healthy snack alternatives”,Review (5),Positive,"Showcase nutrition facts, run health-conscious campaign"
+Post-Purchase,Social / Direct,Delivery expectations from online experience,“Please ensure delivery like Swiggy or Zomato.”,Review (8),Neutral,Add more delivery options or partner promotions
+Consideration,Referral / Social,Regional taste expectations,“30–40% flavors customized for regional tastes”,Review (13),Positive,Market regional variants heavily via digital touchpoints
+Post-Purchase,Direct,Complaint on refund and payment experience,“Refund requested due to dissatisfaction.”; “Please pay in cash or your money is gone.”,Review (8),Negative,Streamline refund/payment systems & communication

@@ -1,0 +1,51 @@
+Sr. No.,Issue Type,Platform,Example User Statement,Sentiment,Resolution Status (if mentioned),Notes
+1,Damaged Product,Amazon,"""Package was torn, sweets spilled out.""",Negative,Refund issued after 5 days,Not Provided
+2,Late Refund,Flipkart,"""Waited 2 weeks for refund!""",Negative,Refund pending,Not Provided
+3,Wrong Product Sent,Amazon,"""Ordered rasgulla, received namkeen.""",Negative,Replacement approved,Not Provided
+4,Poor Customer Support,Facebook,"""No one responded to my refund query.""",Negative,No resolution,Not Provided
+5,No Return Option,Instagram,"""Item not eligible for return, shocking!""",Negative,Not Provided,Policy awareness needed
+6,Damaged Sweets,Flipkart,"""Sweets melted completely, unusable.""",Negative,Refund approved,Not Provided
+7,Difficult Process,Amazon,"""Complicated return procedure.""",Negative,Not Provided,Process complexity
+8,Partial Refund,Facebook,"""Got only partial refund, unfair.""",Negative,Not Provided,Not Provided
+9,No Pick-up Arranged,Flipkart,"""Pickup agent never came.""",Negative,Still waiting,Not Provided
+10,Return Denied,Instagram,"""Customer care refused return.""",Negative,Escalated issue,Not Provided
+11,Wrong Quantity,Amazon,"""Received only 1 pack instead of 2.""",Negative,Full refund processed,Not Provided
+12,Expired Product,Facebook,"""Got an expired snack pack.""",Negative,Replacement sent,Not Provided
+13,Refund Delayed,Twitter,"""Refund took forever to reflect.""",Negative,Not Provided,Not Provided
+14,Broken Container,Amazon,"""Tin container was dented badly.""",Negative,Not Provided,Packaging concern
+15,Misleading Product Info,Flipkart,"""Photo showed 500g pack, got 250g.""",Negative,Refund processed,Not Provided
+16,Refund Processed Quickly,Instagram,"""Refund was quick, no issues!""",Positive,Resolved quickly,Rare case
+17,Return Window Closed,Amazon,"""Realized too late, window closed.""",Negative,Not Provided,Timing issues
+18,Faulty Packaging,Facebook,"""Inner plastic was punctured.""",Negative,Refund initiated,Not Provided
+19,Multiple Follow-ups Needed,Flipkart,"""Had to email 4 times for refund.""",Negative,Not Provided,Not Provided
+20,No Acknowledgement,Amazon,"""Return request not acknowledged.""",Negative,No resolution yet,Not Provided
+21,Delivery Error,Twitter,"""Delivered to wrong address.""",Negative,Redelivery arranged,Not Provided
+22,Customer Support Rude,Facebook,"""Support team was rude about refund.""",Negative,Escalated complaint,Not Provided
+23,Broken Sweet Boxes,Amazon,"""Sweets were crushed on arrival.""",Negative,Partial refund given,Not Provided
+24,Incorrect Pricing Refund,Flipkart,"""Paid for 3, got charged for 4.""",Negative,Refund processed,Not Provided
+25,Lost Package,Amazon,"""Parcel lost, refund took a month.""",Negative,Not Provided,Logistics issue
+26,System Glitch,Flipkart,"""App showed product returnable but wasn't.""",Negative,Not Provided,System error
+27,Refund Without Pickup,Amazon,"""Got refund without needing pickup!""",Positive,Smooth resolution,Rare case
+28,Faulty Batch,Facebook,"""All packets had weird taste.""",Negative,Replacement offered,Not Provided
+29,Refund to Wallet Only,Flipkart,"""No bank refund option, only wallet!""",Negative,Not Provided,Not Provided
+30,Sweets Melted During Transit,Amazon,"""Sweets melted completely in heat.""",Negative,Refund given,Not Provided
+31,Time-Consuming Returns,Instagram,"""Returns take too long for perishables.""",Negative,Not Provided,Not Provided
+32,No Apology,Facebook,"""No sorry even after bad experience.""",Negative,Not Provided,Not Provided
+33,Refund Approved But Delayed,Flipkart,"""Approved refund but still waiting.""",Negative,Pending,Not Provided
+34,Wrong Sweet Type,Amazon,"""Ordered kaju katli, got soan papdi.""",Negative,Replacement initiated,Not Provided
+35,Payment Error,Flipkart,"""Charged twice for same order.""",Negative,Refund processed,Not Provided
+36,No Confirmation Email,Amazon,"""Return accepted but no confirmation mail.""",Negative,Not Provided,Lack of communication
+37,Coupon Not Reimbursed,Facebook,"""Lost my discount after refund.""",Negative,Not Provided,Not Provided
+38,Stale Products,Flipkart,"""Namkeen tasted stale.""",Negative,Refund initiated,Not Provided
+39,App Bug,Amazon,"""Couldn’t initiate return via app.""",Negative,Not Provided,Tech glitch
+40,Late Pickup Appointment,Flipkart,"""Pickup scheduled after 5 days.""",Negative,Not Provided,Not Provided
+41,Missing Items in Combo,Amazon,"""Combo missing 1 pack.""",Negative,Partial refund given,Not Provided
+42,False Product Description,Flipkart,"""Product totally different from images.""",Negative,Refund approved,Not Provided
+43,Overcharged During Checkout,Amazon,"""Final price was more than MRP.""",Negative,Refund given,Not Provided
+44,Damaged Tins,Facebook,"""Sweet tins dented beyond repair.""",Negative,Replacement arranged,Not Provided
+45,No Update Post Complaint,Instagram,"""Support closed ticket without solving.""",Negative,Not Provided,Not Provided
+46,Mixed Up Orders,Amazon,"""Got someone else's order!""",Negative,Return arranged,Not Provided
+47,Lost Refund Case,Flipkart,"""Case closed without refund!""",Negative,Not Provided,Customer dissatisfaction
+48,Return Portal Issue,Amazon,"""Return site not working properly.""",Negative,Not Provided,Not Provided
+49,Low-Value Refund,Flipkart,"""Refund amount less than paid!""",Negative,Escalation in progress,Not Provided
+50,Holiday Delay,Amazon,"""Refund delayed due to festival holidays.""",Neutral,Not Provided,Not Provided

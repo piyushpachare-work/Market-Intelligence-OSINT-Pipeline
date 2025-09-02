@@ -1,0 +1,31 @@
+#,Platform,User Phrase Mentioned,Interpreted Frequency,Tone,Product Type,User Type (Inferred),Notable Observation
+1,Amazon Review,"""Ordered this again last week!""",Bi-weekly,Positive,Soan Papdi,Repeat buyer,Mentions loyalty
+2,Twitter,"""We never miss this during weekends!""",Weekly,Positive,Bhujia,Family consumer,Linked with weekend rituals
+3,Reddit,"""My pantry is never without this""",Monthly+,Positive,Aloo Bhujia,Bulk purchaser,Stocking behavior observed
+4,Quora,"""I order this almost every month""",Monthly,Neutral,Namkeen,Urban regular buyer,Describes regular need
+5,Instagram,"""My monthly Haldiram haul """,Monthly,Positive,Mix of snacks,Enthusiastic foodie,Visual-based haul posts common
+6,Facebook,"""Stock up every 2 weeks from D-Mart""",Bi-weekly,Positive,Variety packs,Value shopper,Indicates planned shopping behavior
+7,YouTube Comment,"""A weekly must-have with chai""",Weekly,Positive,Moong Dal,Routine tea-time buyer,Associated with tea routines
+8,Twitter,"""Have been buying this for years""",Long-term frequent,Positive,Rasgulla,Loyal consumer,Brand legacy in family
+9,Reddit,"""We stock this up for every festival""",Occasional/Festive,Positive,Sweets,Cultural buyer,Tied to festive season
+10,Google Review,"""Bought twice this month already!""",High frequency,Positive,Bhujia,Snack lover,Urgent repurchase hints at high craving
+11,Amazon Review,"""We buy this on our grocery run""",Monthly/Bi-weekly,Positive,Snacks combo,Family planner,Purchase embedded in routine
+12,Facebook,"""My go-to snack every Friday movie night""",Weekly,Positive,Chips,Millennial/GenZ user,Entertainment-linked frequency
+13,Quora,"""Reordered it again, can’t resist""",Frequent,Positive,Gulab Jamun,Sweets enthusiast,Emotional mention linked with craving
+14,Reddit,"""I’ve had it 3 times this week """,Very high frequency,Humorous,Namkeen,Youth,Casual and impulsive eating pattern
+15,Twitter,"""Weekend picnic = Haldiram mandatory""",Weekly,Positive,Snacks,Family crowd,Behavioral trigger linked with activity
+16,YouTube,"""Restocking again for the third time""",Monthly+,Neutral,Combo pack,Household shopper,Perceived as staple
+17,Reddit,"""Crave it every second weekend""",Bi-weekly,Positive,Snacks,Young adult,Patterns show craving-based cycle
+18,Amazon Review,"""This is our Diwali bulk order always""",Festive/Seasonal,Positive,Sweets,Tradition follower,Seasonal spikes evident
+19,Facebook,"""Haldiram + chai = Sunday sorted""",Weekly,Positive,Tea snacks,Home consumer,High emotional connect
+20,Instagram,"""I can’t NOT buy this every month""",Monthly,Positive,Bhujia,Addicted user,Expressive loyalty
+21,Quora,"""I buy this like clockwork""",Routine (weekly/monthly),Positive,Namkeen,Routine shopper,Structured purchase cycle
+22,Twitter,"""Always in my bag during travels""",Travel-specific,Positive,Snacks,Travel buyer,Niche frequency—travel
+23,Reddit,"""Mom says we run out every 10 days""",10-day cycle,Positive,Moong Dal,Home household,Moms are decision-makers
+24,Facebook,"""My hostel mates and I restock monthly""",Monthly,Positive,Combo packs,Student segment,Budget-linked frequency
+25,Instagram,"""Bought this three times this week already""",Very frequent,Positive,Bhujia,Craving-led user,High product addiction
+26,Google Review,"""Staple in my office drawer now""",Daily/Weekly,Neutral,Snacks,Office worker,Workplace-driven frequency
+27,Reddit,"""I literally can’t function without this""",Emotional Weekly+,Positive,Moong Dal,Addicted snack lover,Psychological dependence hint
+28,YouTube,"""We all stock up for Sunday cricket""",Weekly/Sports-linked,Positive,Namkeen,Sports fan,Event-based frequency
+29,Amazon Review,"""Repeat buyer for 3 years straight""",Long-term monthly,Loyalist,Rasgulla,Long-term customer,Suggests brand trust
+30,Facebook,"""Tried skipping this month… couldn’t """,Monthly,Playful,Namkeen,Habitual buyer,Failed abstinence indicates strong loyalty

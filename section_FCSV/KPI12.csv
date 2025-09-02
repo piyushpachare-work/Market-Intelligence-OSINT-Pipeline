@@ -1,0 +1,123 @@
+Category,Competitor Name,Has DTC Website? (Yes/No),DTC Website URL,Search Keyword,Monthly Search Volume (India),Country,YoY Trend (Rising/Stable/Falling),Search Volume Score (1-5),DTC Presence %,Notes
+Beverages,Amul,Yes,Amul Shop,"""buy Amul milk online""","15,000",India,Stable,5,80%,Dairy products and beverages
+Beverages,Nestle,Yes,Nestle Shop,"""buy Nestle beverages online""","9,000",India,Stable,5,75%,Global beverage brand
+Beverages,Coca Cola,Yes,Coca Cola Shop,"""buy Coca Cola online""","20,000",India,Stable,5,90%,Global beverage leader
+Beverages,PepsiCo,Yes,PepsiCo Shop,"""buy Pepsi online""","18,000",India,Stable,5,85%,Major beverage player
+Beverages,Paper Boat,Yes,Paper Boat Shop,"""buy Paper Boat online""","4,500",India,Rising,4,60%,Innovative traditional drinks
+Beverages,Wildcraft,Yes,Wildcraft Shop,"""buy Wildcraft beverages online""","2,500",India,Rising,3,50%,Outdoor beverage brand
+Beverages,24 Mantra,Yes,24 Mantra Shop,"""buy 24 Mantra beverages online""","3,800",India,Rising,4,55%,Organic beverages line
+Beverages,Paper Boat,Yes,Paper Boat Shop,"""buy Paper Boat drinks online""","5,100",India,Rising,4,60%,Known for fruit drinks
+Beverages,Fanta,Yes,Fanta Shop,"""buy Fanta online""","9,800",India,Stable,5,75%,Popular global beverage brand
+Beverages,Mountain Dew,Yes,Mountain Dew Shop,"""buy Mountain Dew online""","8,000",India,Stable,5,70%,Popular youth beverage
+Beverages,Tropicana,Yes,Tropicana Shop,"""buy Tropicana online""","10,000",India,Stable,5,80%,Leading juice brand
+Beverages,Paper Boat,Yes,Paper Boat,buy Paper Boat drinks online,"3,500",India,Rising,4,80%,Known for traditional Indian beverages.
+Beverages,Urban Platter,Yes,Urban Platter,buy Urban Platter beverages online,"2,800",India,Rising,3,70%,Offers a range of health-focused beverages.
+Beverages,Mogu Mogu,Yes,Mogu Mogu,buy Mogu Mogu drinks online,"2,500",India,Rising,3,65%,Popular for fruit-based drinks.
+Beverages,Dobra Pop,Yes,Dobra Pop,buy Dobra Pop drinks online,"2,200",India,Rising,3,60%,Offers unique flavored sodas.
+Beverages,Real Thai,Yes,Real Thai,buy Real Thai beverages online,"2,000",India,Stable,2,55%,Known for coconut milk and other beverages.
+Beverages,Paper Boat,Yes,paperboatdrinks.com,Paper Boat,"18,000",India,Growing,5,100%,Known for traditional Indian beverages in ready-to-drink formats.
+Beverages,Dookan,Yes,dookan.com,Dookan,"1,500",India,Stable,3,100%,Offers a collection of Indian beverages including teas and juices.
+Beverages,Teabox,Yes,teabox.com,Teabox,"2,000",India,Growing,3,100%,"Delivers fresh, high-quality teas directly from estates to consumers."
+Beverages,Coca-Cola India,Yes,coca-cola.com/in/en,Coca-Cola India,"25,000",India,Growing,5,100%,Offers a range of beverages including Maaza and Fanta.
+Beverages,Hector Beverages,Yes,sofina.com,Hector Beverages,"1,800",India,Stable,3,100%,"Parent company of Paper Boat, focusing on traditional Indian drinks."
+Beverages,Chaayos,Yes,chaayos.com,Chaayos,"6,000",India,Growing,4,100%,Offers customizable chai and snacks through cafes and online.
+Beverages,Vahdam Teas,Yes,vahdam.com,Vahdam Teas,"3,500",India,Growing,4,100%,Sells premium teas directly from Indian plantations.
+Beverages,Wellbeing Nutrition,Yes,wellbeingnutrition.com,Wellbeing Nutrition,"2,800",India,Growing,3,100%,Provides plant-based supplements and beverages.
+Beverages,DropKaffe (SLAY Coffee),Yes,slaycoffee.com,SLAY Coffee,"2,200",India,Growing,3,100%,Offers ready-to-drink cold coffee and gourmet foods.
+Beverages,The Tea Shelf,Yes,theteashelf.com,The Tea Shelf,"1,000",India,Stable,2,100%,Provides a curated selection of premium Indian teas.
+Beverages,Tasty Nibbles,Yes,tastynibbles.in,Tasty Nibbles,"1,200",India,Stable,2,100%,Known for seafood-based ready-to-eat meals and beverages.
+Beverages,Saffola FITTIFY,Yes,fittify.in,Saffola FITTIFY,"3,000",India,Growing,3,100%,Offers health-focused beverages and meal replacements.
+Beverages,Raw Pressery,Yes,rawpressery.com,Raw Pressery,"4,500",India,Growing,4,100%,Provides cold-pressed juices and health drinks.
+Beverages,Auric,Yes,theauric.com,Auric,"2,600",India,Growing,3,100%,Offers Ayurvedic health drinks and supplements.
+Beverages,Paper Boat,Yes,paperboatdrinks.com,Paper Boat,"6,000",India,Growing,4,100%,Offers traditional Indian beverages in modern packaging.
+Beverages,Coolberg,Yes,coolberg.in,Coolberg,"2,800",India,Growing,3,100%,Non-alcoholic beer brand offering various flavors.
+Beverages,Jimmy�s Cocktails,Yes,jimmyscocktails.com,Jimmy�s Cocktails,"2,500",India,Growing,3,100%,Offers a range of cocktail mixers.
+Beverages,Lahori,Yes,lahoribeverages.com,Lahori Beverages,"1,800",India,Growing,3,100%,Offers traditional Indian beverages like jeera and shikanji.
+Namkeen,Bikaji,Yes,Bikaji Shop,"""buy namkeen online""","8,100",India,Rising,4,60%,Strong presence in traditional snacks
+Namkeen,Bikanervala,Yes,Bikanervala Shop,"""buy namkeen online""","8,100",India,Rising,4,60%,Established brand with diverse offerings
+Namkeen,Prabhuji,No,Not available,"""buy namkeen online""","8,100",India,Rising,2,0%,Focus on regional markets
+Namkeen,Yellow Diamond,Yes,Yellow Diamond Shop,"""buy namkeen online""","8,100",India,Rising,4,60%,Popular among younger demographics
+Namkeen,Haldiram's,Yes,Haldiram Shop,"""buy haldiram namkeen online""","12,000",India,Stable,5,100%,Market leader in the category
+Namkeen,MTR Foods,Yes,MTR Foods Shop,"""buy MTR snacks online""","7,200",India,Rising,4,65%,Known for ready-to-eat snacks
+Namkeen,Patanjali,Yes,Patanjali Shop,"""buy Patanjali namkeen online""","9,800",India,Stable,4,85%,Strong Ayurvedic snack line
+Namkeen,Amul,Yes,Amul Shop,"""buy Amul namkeen online""","4,400",India,Rising,4,50%,Popular dairy and snack brand
+Namkeen,Britannia,Yes,Britannia Shop,"""buy Britannia biscuits online""","15,000",India,Stable,5,80%,Extensive range of snacks
+Namkeen,Prataap Snacks,Yes,Prataap Snacks Shop,"""buy Prataap snacks online""","5,500",India,Rising,4,70%,Known for traditional snacks
+Namkeen,Haldiram's,Yes,Haldiram Shop,"""buy haldiram snacks online""","12,000",India,Stable,5,100%,Leading market share in snacks
+Namkeen,Gits Food,Yes,Gits Shop,"""buy Gits snacks online""","4,200",India,Rising,4,60%,Focus on instant food and snacks
+Namkeen,Dharmani Foods,No,Not available,"""buy Dharmani snacks online""","2,900",India,Rising,3,0%,Regional player
+Namkeen,Dadu's Sweets,Yes,Dadu's Namkeen,buy Dadu's namkeen online,"1,800",India,Rising,3,60%,Strong regional presence in South India.
+Namkeen,Bharat Namkeen,Yes,Bharat Namkeen,buy Bharat Namkeen online,"1,200",India,Stable,2,50%,Offers a variety of traditional snacks.
+Namkeen,Om Namkeen,Yes,Om Namkeen,buy Om Namkeen online,"2,500",India,Rising,3,70%,Popular in Indore region.
+Namkeen,Apna Sweets,Yes,Apna Sweets,buy Apna Sweets namkeen online,"1,500",India,Stable,2,60%,Known for a range of sweets and snacks.
+Namkeen,Jagdish Farshan,Yes,Jagdish Farshan,buy Jagdish Farshan online,"1,700",India,Rising,3,65%,Established brand in Gujarat.
+Namkeen,Induben Khakhrawala,Yes,Induben Khakhrawala,buy Induben Khakhrawala online,"1,300",India,Stable,2,55%,Specializes in Khakhra and other snacks.
+Namkeen,Laxmi Misthan Bhandar (LMB),Yes,LMB,buy LMB namkeen online,"1,600",India,Rising,3,60%,Historic brand from Jaipur.
+Namkeen,Kailash Sweets & Snacks,Yes,Kailash Sweets,buy Kailash Sweets namkeen online,"1,100",India,Stable,2,50%,Offers a variety of traditional snacks.
+Namkeen,Ratan Sev Bhandar,Yes,Ratan Sev Bhandar,buy Ratan Sev Bhandar online,"1,400",India,Rising,3,60%,Known for sev and other namkeens.
+Namkeen,Bafna Namkeen,Yes,Bafna Namkeen,buy Bafna Namkeen online,"1,200",India,Stable,2,50%,Offers a range of traditional snacks.
+Namkeen,Bikano,Yes,bikano.com,Bikano,"12,000",India,Stable,4,100%,Offers a wide range of traditional Indian snacks and sweets.
+Namkeen,Heerson,Yes,heerson.com,Heerson,"1,200",India,Growing,3,100%,Provides premium namkeen and Indian snacks online.
+Namkeen,PushMyCart,Yes,pushmycart.com,PushMyCart,800,India,Stable,2,100%,Specializes in North Indian namkeens and snacks.
+Namkeen,Gandhi Foods,Yes,gandhifood.com,Gandhi Foods,600,India,Stable,2,100%,Offers a variety of Indian namkeens and snacks online.
+Namkeen,Bikaji,Yes,bikaji.com,Bikaji,"15,000",India,Growing,5,100%,Provides a wide range of namkeen and snack products.
+Namkeen,Haldiram's,Yes,haldiram.com,Haldiram's,"40,000",India,Stable,5,100%,Offers a wide range of traditional Indian snacks and sweets.
+Namkeen,Priniti Foods,Yes,prinitifoods.com,Priniti Foods,"1,000",India,Growing,3,100%,Provides a variety of Indian namkeens and snacks online.
+Namkeen,Real Namkeen,Yes,realnamkeen.com,Real Namkeen,800,India,Stable,2,100%,Specializes in traditional Indian namkeens and snacks.
+Namkeen,Laxminarayan Best Chiwda,Yes,laxminarayanbestchiwda.com,Laxminarayan Chiwda,"1,200",India,Stable,3,100%,Known for its authentic Poha Chiwda from Nagpur.
+Namkeen,TagZ Foods,Yes,tagzfoods.com,TagZ Foods,"2,500",India,Growing,4,100%,Offers popped potato chips as healthier snack options.
+Namkeen,Beyond Snack,Yes,beyondsnack.in,Beyond Snack,"1,500",India,Growing,3,100%,Specializes in authentic Kerala banana chips.
+Namkeen,Snackible,Yes,snackible.com,Snackible,"3,000",India,Growing,4,100%,Provides a variety of healthy and innovative snacks.
+Namkeen,Samosa Singh,Yes,samosasingh.com,Samosa Singh,"2,000",India,Growing,3,100%,Offers Indian snacks like samosas and kachoris via cloud kitchens.
+Namkeen,The Filling Station,Yes,thefillingstation.in,The Filling Station,900,India,Stable,2,100%,Provides nutrient-rich laddoos and oil-free snacks.
+Namkeen,FruitTreat,Yes,fruittreat.com,FruitTreat,700,India,Stable,2,100%,Offers vacuum-fried healthy snacks like okra chips.
+Namkeen,Prataap Snacks (Yellow Diamond),Yes,yellowdiamond.in,Yellow Diamond,"6,000",India,Growing,4,100%,Offers a variety of affordable and delicious snack options.
+Namkeen,Too Yumm!,Yes,tooyumm.com,Too Yumm,"8,000",India,Growing,4,100%,Focuses on healthier snack options without compromising on taste.
+Namkeen,Chitale Bandhu,Yes,chitalebandhu.in,Chitale Bandhu,"5,500",India,Stable,3,100%,Renowned for traditional snacks like bhakarwadi and farsan.
+Namkeen,Kurkure,No,N/A,Kurkure,"45,000",India,Stable,5,0%,Popular snack brand owned by PepsiCo India.
+Namkeen,Bikaji Foods,Yes,bikaji.com,Bikaji,"12,000",India,Growing,4,100%,Offers a wide range of traditional Indian snacks and sweets.
+Namkeen,Balaji Wafers,No,N/A,Balaji Wafers,"10,000",India,Stable,4,0%,Known for its variety of chips and namkeens.
+Namkeen,Bingo! (ITC),No,N/A,Bingo Snacks,"8,000",India,Stable,4,0%,Offers innovative snack options like Mad Angles and Potato Chips.
+Namkeen,Cornitos,Yes,cornitos.in,Cornitos,"3,500",India,Growing,3,100%,Specializes in nacho crisps and roasted snacks.
+Namkeen,Lays,No,N/A,Lays Chips,"50,000",India,Stable,5,0%,Popular potato chips brand owned by PepsiCo India.
+Namkeen,Kurkure,No,N/A,Kurkure,"45,000",India,Stable,5,0%,Spiced crunchy puffcorn snacks by PepsiCo India.
+Sweets,Bikano,Yes,Bikano Shop,"""buy Indian sweets online""","5,400",India,Rising,4,60%,Known for traditional sweets
+Sweets,Bikanervala,Yes,Bikanervala Shop,"""buy Indian sweets online""","5,400",India,Rising,4,60%,Offers a wide range of sweets
+Sweets,Prabhuji,No,Not available,"""buy Indian sweets online""","5,400",India,Rising,2,0%,Regional presence
+Sweets,OyeGifts,Yes,OyeGifts Shop,"""buy Indian sweets online""","5,400",India,Rising,4,60%,Popular for gifting purposes
+Sweets,Haldiram's,Yes,Haldiram Shop,"""buy haldiram sweets online""","12,000",India,Stable,5,100%,Leading brand in sweets category
+Sweets,Anand Sweets,Yes,Anand Sweets Shop,"""buy Anand sweets online""","5,000",India,Stable,4,60%,Popular in North India
+Sweets,Laddoos.com,Yes,Laddoos Shop,"""buy laddoos online""","4,800",India,Rising,4,70%,Focus on laddoos and sweets
+Sweets,Kesar Sweets,Yes,Kesar Sweets Shop,"""buy Kesar sweets online""","3,200",India,Stable,3,50%,Regional sweet shop
+Sweets,Divya Sweets,No,Not available,"""buy Divya sweets online""","3,000",India,Stable,2,0%,Regional sweet shop
+Sweets,Anand Sweets,Yes,Anand Sweets,buy Anand sweets online,"2,000",India,Rising,3,70%,Popular in South India.
+Sweets,Chitale Bandhu Mithaiwale,Yes,Chitale Bandhu,buy Chitale sweets online,"2,500",India,Rising,3,75%,Renowned for Bakarwadi and sweets.
+Sweets,Kesar Sweets,Yes,Kesar Sweets,buy Kesar sweets online,"1,800",India,Stable,2,60%,Offers a variety of traditional sweets.
+Sweets,Doodh Misthan Bhandar,Yes,DMB Sweets,buy DMB sweets online,"1,600",India,Rising,3,60%,Known for sweets and snacks in Jaipur.
+Sweets,Laddoos.com,Yes,Laddoos,buy laddoos online,"1,500",India,Rising,3,65%,Specializes in various types of laddoos.
+Sweets,Narayanji Gajak Wale,Yes,Narayanji Gajak,buy Narayanji gajak online,"1,200",India,Stable,2,50%,Known for gajak and other sweets.
+Sweets,Jalaram Sweets,Yes,Jalaram Sweets,buy Jalaram sweets online,"1,100",India,Stable,2,50%,Offers a range of traditional sweets.
+Sweets,Gulab Sweets,Yes,Gulab Sweets,buy Gulab sweets online,"1,300",India,Rising,3,60%,Known for quality sweets in Delhi.
+Sweets,Jhama Sweets,Yes,Jhama Sweets,buy Jhama sweets online,"1,200",India,Stable,2,50%,Popular in Mumbai for sweets.
+Sweets,Vipul Dudhiya Sweets,Yes,Vipul Sweets,buy Vipul sweets online,"1,100",India,Stable,2,50%,Offers a variety of traditional sweets.
+Sweets,Sukhadia's,Yes,sukhadia.com,Sukhadia's,"1,000",India,Stable,3,100%,Offers premium Indian sweets and snacks with a rich legacy.
+Sweets,Distacart,Yes,distacart.com,Distacart,"2,500",India,Growing,3,100%,Sells a variety of Indian sweets from well-known brands.
+Sweets,Oorla,Yes,oorla.com,Oorla,900,India,Stable,2,100%,Brings authentic Indian sweets and snacks sourced directly from origin.
+Sweets,Snackative,Yes,snackative.com,Snackative,700,India,Stable,2,100%,Offers a wide variety of traditional South Indian sweets and snacks.
+Sweets,Native Sweets Express,Yes,nativesweetsexpress.com,Native Sweets Express,500,India,Stable,1,100%,Provides authentic South Indian sweets and snacks delivered worldwide.
+Sweets,Gits Food,Yes,gitsfood.com,Gits Food,"5,000",India,Stable,4,100%,Known for ready-to-eat Indian sweets and snack mixes.
+Sweets,Sweet Karam Coffee,Yes,sweetkaramcoffee.in,Sweet Karam Coffee,"1,800",India,Growing,3,100%,Offers traditional South Indian sweets and snacks.
+Sweets,Skippi Ice Pops,Yes,skippi.in,Skippi Ice Pops,"2,200",India,Growing,4,100%,"Provides natural, preservative-free ice popsicles."
+Sweets,The Good Bug,Yes,thegoodbug.com,The Good Bug,"1,000",India,Growing,3,100%,Focuses on gut health with probiotic-rich products.
+Sweets,Namhya Foods,Yes,namhyafoods.com,Namhya Foods,"1,500",India,Growing,3,100%,Offers Ayurvedic-inspired sweets and snacks.
+Sweets,MasterChow,Yes,masterchow.in,MasterChow,"2,000",India,Growing,4,100%,Provides ready-to-cook Asian sauces and noodles.
+Sweets,K.C. Das Grandsons,Yes,kcdas.com,K.C. Das,"2,500",India,Stable,3,100%,Famous for its traditional Bengali sweets like Rossogolla.
+Sweets,Bikanervala,Yes,bikanervala.com,Bikanervala,"4,000",India,Stable,4,100%,Offers a wide range of Indian sweets and snacks.
+Sweets,Bikano,Yes,bikano.com,Bikano,"3,000",India,Stable,3,100%,"Provides premium range of namkeens, sweets, and frozen snacks."
+Sweets,Mithaas,Yes,mithaas.com,Mithaas,"1,200",India,Growing,2,100%,Specializes in Indian sweets and snacks.
+Sweets,Anand Sweets,Yes,anandsweets.in,Anand Sweets,"1,800",India,Growing,3,100%,Known for premium quality Indian sweets and savories.
+Sweets,Chhappan Bhog,Yes,chhappanbhog.com,Chhappan Bhog,"1,500",India,Stable,2,100%,Offers a variety of Indian sweets and snacks.
+Sweets,Ganguram Sweets,Yes,ganguram.com,Ganguram Sweets,"1,000",India,Stable,2,100%,Renowned for traditional Bengali sweets.
+Sweets,Kandoi Bhogilal Mulchand,Yes,kandoibhogilal.com,Kandoi Sweets,900,India,Stable,2,100%,Offers traditional Gujarati sweets and snacks.
+Sweets,Pulla Reddy Sweets,Yes,pullareddysweets.com,Pulla Reddy Sweets,"1,100",India,Stable,2,100%,Famous for traditional Andhra sweets.
+Sweets,Adyar Ananda Bhavan,Yes,aabsweets.com,A2B Sweets,"2,200",India,Growing,3,100%,Offers a wide range of South Indian sweets and snacks.

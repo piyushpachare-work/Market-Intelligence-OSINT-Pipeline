@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+python-multipart
+openpyxl
+python-docx
+scikit-learn
+wordcloud
+textblob
+networkx
+tabulate
+
+# To run the FastAPI application, use the command: uvicorn main3:app --reload
