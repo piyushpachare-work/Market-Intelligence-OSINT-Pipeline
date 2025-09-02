@@ -64,8 +64,8 @@ inm_docker/
 
 ## 👤 Author
 
-**Yashi Gupta** 📧 gupta1803yashi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yashi-gupta-101808)
+**Piyush Pachare** 📧 piyushpachare.work@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/piyush-pachare/)
 
 ---
 
