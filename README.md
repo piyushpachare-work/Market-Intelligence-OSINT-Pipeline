@@ -1,84 +1,113 @@
-# 📊 Indian Namkeen Market (INM) Intelligence Platform – Backend API (Dockerized)
+# 🍲 Haldiram Market & Competitive Intelligence Project  
+> An OSINT-driven analysis of 205+ KPIs shaping India’s snack industry.
 
-This repository contains the backend for the **Indian Namkeen Market (INM) Intelligence Platform**, designed to analyze and serve insights across **205+ KPIs** related to Haldiram and other major Indian snack brands. It delivers strategic analytics covering market landscape, competitive benchmarking, brand perception, consumer behavior, and advanced OSINT indicators — all exposed through a clean FastAPI-based interface.
-
----
-
-## 📦 Key Highlights
-
-- ✅ 205+ structured KPIs across 9 strategic intelligence sections  
-- ⚙️ FastAPI backend with modular design and clean routing  
-- 📁 Excel-based data pipelines using Pandas  
-- 📊 Chart and metric endpoints for analysis and dashboards  
-- 🐳 Fully Dockerized for isolated and scalable deployment
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?logo=fastapi)  
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)  
+![Slack](https://img.shields.io/badge/Slack-Collaboration-purple?logo=slack)  
+![GitHub](https://img.shields.io/badge/GitHub-CI%2FCD-black?logo=github)  
+![Excel](https://img.shields.io/badge/Excel-Data%20Processing-green?logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-Datasets-orange?logo=files&logoColor=white)
 
 ---
 
-## 🧠 KPI Intelligence Framework
+## 🌍 Project Background  
+Haldiram is one of India’s largest snack brands, operating in a highly competitive and fragmented market.  
+This project explores *how public data (OSINT)* can uncover insights into:  
+- Market trends 📈  
+- Competitor strategies 🥇  
+- Consumer behavior 🛍  
+- Brand positioning 🎯  
 
-| Section | Description | Count |
-|--------|-------------|-------|
-| A | **Market & Industry Landscape** – Market size, growth, trends, tech, investments | 15 KPIs |
-| B | **Competitive Landscape** – Product range, pricing, platform reach, social presence | 25 KPIs |
-| C | **Haldiram Brand Perception & Online Presence** – Ratings, reviews, SEO, social metrics | 30 KPIs |
-| D | **Consumer Insights (Public Data)** – Gifting, unmet needs, loyalty, demographic cues | 15 KPIs |
-| E | **SWOT-Specific Indicators** – Derived strengths, weaknesses, opportunities, threats | 15 KPIs |
-| F | **Advanced Market & Category Dynamics** – Trend velocity, Q-commerce, cannibalization | 20 KPIs |
-| G | **Advanced Competitive Intelligence** – Pivot tracking, influencer ROI, partnerships | 30 KPIs |
-| H | **Advanced Haldiram Brand Performance** – Sentiment drivers, content success, product icons | 25 KPIs |
-| I | **Consumer Behavior & Journey Insights (OSINT)** – Journey mapping, switching, purchase intent | 30 KPIs |
-
-📄 **Methodology Source**: See `KPIs.pdf` for complete breakdown and data logic.
+The challenge: How can we leverage 205+ KPIs to map the competitive landscape and Haldiram’s role within it?
 
 ---
 
-## 🗂️ Project Structure
+## 🎯 Objectives  
+- Map the *Indian Namkeen, Sweets, Frozen, and RTE market*.  
+- Benchmark Haldiram against *major competitors*.  
+- Build *datasets & APIs* for 205+ KPIs.  
+- Deliver *dashboards & reports* for executives.  
+- Enable *scalable, containerized deployment* with Docker.  
 
+---
 
-inm_docker/
-├── app/
-│   ├── main.py              # FastAPI app entry point
-│   ├── routers/             # API route definitions
-│   ├── services/            # KPI logic and data processing
-│   ├── models/              # Pydantic schemas
-│   └── utils/               # Helpers (loaders, filters)
-├── data/                    # Excel/CSV data files
-├── Dockerfile               # Docker image configuration
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+## ✨ Key Outcomes  
+✔ Defined *5 categories* & mapped 10+ competitors  
+✔ Created *205+ KPI dataset* from OSINT sources  
+✔ Developed *Python dashboard* integrated with frontend  
+✔ Built *FastAPI + Dockerized pipeline* for APIs  
+✔ Delivered *Power BI visualizations* for storytelling  
+✔ Used *Slack + GitHub* for real-time collaboration  
 
+---
 
-## 📊 Example API Endpoints
+## 🛠 Tech Stack  
 
-| Endpoint | Description |
-|----------|-------------|
-| `/kpis/brands/` | List of all tracked brands |
-| `/kpis/category/Namkeen` | KPIs filtered for Namkeen category |
-| `/charts/engagement/haldiram` | Engagement plot for Haldiram |
-| `/compare/search-volume` | Search interest comparison across brands |
-| `/swot/haldiram` | Derived SWOT metrics for Haldiram |
+*Languages & Frameworks*  
+- Python 3.10  
+- FastAPI (Backend APIs)  
+- Power BI (Visualization)  
 
-📍 Full API docs available at: [http://localhost:8000/docs](http://localhost:8000/docs)
+*Libraries*  
+- Pandas, NumPy (Data Processing)  
+- Matplotlib, Plotly (Visualization)  
+
+*Tools & Deployment*  
+- Docker 🐳 (Containerization)  
+- GitHub (Version control & CI/CD)  
+- Slack (Collaboration)  
+
+---
+
+## 📂 Repository Structure
+```
+📁 inm_docker/
+│
+├── ⚡ backend/ – FastAPI backend for KPI APIs & visualization
+├── 📊 data/ – Raw & processed KPI datasets (Excel, CSV, JSON)
+├── 📓 notebooks/ – Jupyter notebooks for data analysis & ML
+├── 📈 dashboards/ – Python + Power BI dashboards
+├── 📄 docs/ – Reports, presentations, and documentation
+├── 🐳 docker/ – Docker setup & configs
+├── 🧪 tests/ – Unit & integration tests
+└── 📘 README.md – You are here 🚀
+
+```
+---
+
+## 🚀 Features
+
+- 205+ KPIs across Market, Consumer, Competitive, and SWOT categories  
+- Python-based dashboards integrated with frontend  
+- API endpoints for KPI data & visualizations  
+- Dockerized deployment for production readiness  
+- Collaboration workflow: GitHub + Slack + Trello  
+
+---
+
+## 📊 Deliverables
+
+- 📄 Comprehensive research report  
+- 📊 Power BI + Python dashboards  
+- 🔗 FastAPI-based JSON endpoints  
+- 📁 Curated dataset repository  
+
+---
+
+## ⚡ Methodology
+
+1. *Data Collection* – OSINT (e-commerce, reviews, Google Trends, social media)  
+2. *Data Processing* – Python pipelines (ETL → CSV/JSON)  
+3. *Analysis* – Market, competitors, consumer behavior, SWOT  
+4. *Deployment* – Dockerized APIs + dashboards  
+5. *Reporting* – Power BI dashboards & executive reports  
 
 ---
 
 ## 👤 Author
+**Piyush Pachare** 
 
-**Piyush Pachare** 📧 piyushpachare.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/piyush-pachare/)
+Data & Market Analytics 
 
----
-
-## 📄 License
-
-This repository is intended strictly for academic and research purposes.  
-For external use, collaboration, or distribution, please contact the author.
-
----
-
-## ▶️ Quick Start
-
-```bash
-docker build -t inm-backend .
-docker run -d -p 8000:8000 inm-backend
-Then open http://localhost:8000/docs to explore the API interactively.
